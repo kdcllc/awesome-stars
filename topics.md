@@ -343,7 +343,7 @@
 ## api 
 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.
 - [bitwarden/passwordless-server](https://github.com/bitwarden/passwordless-server) - Bitwarden Passwordless.dev infrastructure/backend (API, database, Docker, etc).
 - [graphql-dotnet/conventions](https://github.com/graphql-dotnet/conventions) - GraphQL Conventions Library for .NET
@@ -481,6 +481,8 @@
 
 ## azure 
 
+- [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
+- [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & d
 - [denniszielke/gen-ai-code-execution-agent](https://github.com/denniszielke/gen-ai-code-execution-agent) - Secure Dynamic Session Agent for AI generated code execution built using OpenAI, Langchain and Azure Container Apps
 - [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) - APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services
@@ -552,7 +554,7 @@
 - [Zimmergren/LogAnalytics.Client](https://github.com/Zimmergren/LogAnalytics.Client) - A .NET Core client for sending logs and entities to Azure Log Analytics. Based on the Log Analytics Data Collector API.
 - [damienbod/AspNetCoreServiceBus](https://github.com/damienbod/AspNetCoreServiceBus) - ASP.NET Core with Azure Service Bus
 - [denniszielke/container_demos](https://github.com/denniszielke/container_demos) - Demos for cloud native applications on Azure
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on the functionality from http://WireMock.org, but extende
 - [MarcelMichau/fake-survey-generator](https://github.com/MarcelMichau/fake-survey-generator) - A slightly more-than-trivial full-stack application built with DDD & CQRS concepts
 - [cecilphillip/azure-servicebus-pubsub-hol](https://github.com/cecilphillip/azure-servicebus-pubsub-hol) - 
@@ -771,7 +773,7 @@
 - [dotnet/intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) - Get Started as a Web Developer with .NET, C#, and ASP.NET Core
 - [dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
 - [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - C# Developer's Exciting Journey into Python World 🐍
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript Interop with multithreading via WebWorkers
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.
 - [mini-software/MiniWord](https://github.com/mini-software/MiniWord) - .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
 - [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
 - [ILoveDotNet/ilovedotnet](https://github.com/ILoveDotNet/ilovedotnet) - I love to teach dotnet concepts in a simple way with real world examples to people who aspire to to be a dotnet developer. I also help developers to refresh their memory with easy to understand analog
@@ -1057,7 +1059,7 @@
 - [roberthstrand/demo-gitops](https://github.com/roberthstrand/demo-gitops) - This repository is used as a base for all talks I hold about GitOps.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [microsoft/rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing) - REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enable
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [microsoft/MCW](https://github.com/microsoft/MCW) - Microsoft Cloud Workshop Project
@@ -1075,6 +1077,7 @@
 
 ## docker 
 
+- [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
 - [microsoft/llmops-promptflow-template](https://github.com/microsoft/llmops-promptflow-template) - LLMOps with Prompt Flow is a "LLMOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Management
 - [Azure-Samples/qdrant-azure](https://github.com/Azure-Samples/qdrant-azure) - Qdrant Vector Database on Azure Cloud
 - [kdcllc/vscode-k8s-pack](https://github.com/kdcllc/vscode-k8s-pack) - K8s Dev Pack VS Code https://code.visualstudio.com
@@ -1148,6 +1151,7 @@
 
 ## dotnet 
 
+- [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
 - [dotnet-presentations/letslearn-dotnet-aspire](https://github.com/dotnet-presentations/letslearn-dotnet-aspire) - Let's Learn .NET Aspire workshop material!
 - [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
 - [Jenscaasen/UniversalLLMFunctionCaller](https://github.com/Jenscaasen/UniversalLLMFunctionCaller) - A planner that integrates into Semantic Kernel to enable function calling on all Chat based LLMs (Mistral, Bard, Claude, LLama etc)
@@ -1162,7 +1166,7 @@
 - [ucrengineer/semantic-aspire](https://github.com/ucrengineer/semantic-aspire) - semantic kernel examples with aspire endpoints.
 - [dotnet/aspire](https://github.com/dotnet/aspire) - An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET
 - [anthonypuppo/skpersona](https://github.com/anthonypuppo/skpersona) - Demonstration of how to give Language Models (LLMs) a unique persona using part of speech tagging and logit bias.
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript Interop with multithreading via WebWorkers
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.
 - [mini-software/MiniWord](https://github.com/mini-software/MiniWord) - .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
 - [khalidabuhakmeh/Htmx.Net](https://github.com/khalidabuhakmeh/Htmx.Net) - Adds extensions methods to HttpResponse and HttpRequest to make working with Htmx easier.
 - [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
@@ -1480,7 +1484,7 @@
 
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
@@ -1552,7 +1556,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
@@ -1578,7 +1582,7 @@
 
 ## golang 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
@@ -1913,7 +1917,7 @@
 - [Azure/openai-at-scale](https://github.com/Azure/openai-at-scale) - Simple ChatGPT UI application
 - [1Marc/modern-todomvc-vanillajs](https://github.com/1Marc/modern-todomvc-vanillajs) - TodoMVC with Modern (ES6+), Vanilla JavaScript
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript Interop with multithreading via WebWorkers
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [khalidabuhakmeh/Htmx.Net](https://github.com/khalidabuhakmeh/Htmx.Net) - Adds extensions methods to HttpResponse and HttpRequest to make working with Htmx easier.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
@@ -1997,7 +2001,7 @@
 ## json 
 
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [seven1m/bible_api](https://github.com/seven1m/bible_api) - Ruby web app that serves JSON API for open and public domain bibles
 - [Cinchoo/ChoETL](https://github.com/Cinchoo/ChoETL) - ETL framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml, Avro formatted files)
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -2153,6 +2157,7 @@
 
 ## llm 
 
+- [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
@@ -2161,11 +2166,11 @@
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm) - A platform accelerating delivery of secure, trustworthy enterprise copilots.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
 - [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.
 - [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) - SQL Server connector for Semantic Kernel plugin and Kernel Memory
@@ -2275,6 +2280,7 @@
 
 ## microsoft 
 
+- [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
 - [rohankishore/Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
 - [ucrengineer/semantic-aspire](https://github.com/ucrengineer/semantic-aspire) - semantic kernel examples with aspire endpoints.
 - [microsoft/vscode-cosmosdb](https://github.com/microsoft/vscode-cosmosdb) - Azure Databases extension for VS Code
@@ -2366,6 +2372,7 @@
 
 ## nextjs 
 
+- [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -2467,6 +2474,19 @@
 
 ## others 
 
+- [microsoft/Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
+- [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
+- [ilexistools/ChatCompletionAgentBased](https://github.com/ilexistools/ChatCompletionAgentBased) - A simple chat completion agent class for llms.
+- [Azure/azure-ai-cli](https://github.com/Azure/azure-ai-cli) - This repository is for active development of the Azure AI CLI. For consumers of the SDK we recommend visiting our public developer docs at https://aka.ms/azaicli
+- [Webreaper/CentralisedPackageConverter](https://github.com/Webreaper/CentralisedPackageConverter) - Converts a project to use Centralised Package Management
+- [JohnMarsing/Mhb-FastEndpoints-Hosted-Blazor-Wasm](https://github.com/JohnMarsing/Mhb-FastEndpoints-Hosted-Blazor-Wasm) - MyHebrewBible (MHB) is Hosted Blazor 8 WASM web app using FastEndpoints and Sqlite
+- [kdcllc/ravendb-donet-accelerator](https://github.com/kdcllc/ravendb-donet-accelerator) - RaveDb Accelerator:  Agenda manager example use azd to start your POC
+- [Azure-Samples/YouTubeGPT](https://github.com/Azure-Samples/YouTubeGPT) - YouTubeGPT
+- [Azure/business-process-automation](https://github.com/Azure/business-process-automation) - Business process automation solution accelerator using Azure services
+- [kdcllc/awesome-stars](https://github.com/kdcllc/awesome-stars) - 
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
+- [denisa-ms/azure-openai-code-samples](https://github.com/denisa-ms/azure-openai-code-samples) - 
 - [microsoft/llmops-workshop](https://github.com/microsoft/llmops-workshop) - Learn how to build solutions with Large Language Models.
 - [Azure-Samples/llama-index-python](https://github.com/Azure-Samples/llama-index-python) - This sample shows how to quickly get started with LlamaIndex.ai on Azure🚀
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
@@ -3328,7 +3348,7 @@
 - [SteveSandersonMS/BlazorUnitTestingPrototype](https://github.com/SteveSandersonMS/BlazorUnitTestingPrototype) - 
 - [SciSharp/SciSharpCube](https://github.com/SciSharp/SciSharpCube) - Quickly experience all the latest features of SciSharp Machine Learning tools in docker container.
 - [ramon-tomas-c/gRPC-Workshop](https://github.com/ramon-tomas-c/gRPC-Workshop) - 
-- [kdcllc/CronScheduler.AspNetCore](https://github.com/kdcllc/CronScheduler.AspNetCore) - Cron Scheduler for AspNetCore 2.x/7.x or DotNetCore 2.x/7.x Self-hosted
+- [kdcllc/CronScheduler.AspNetCore](https://github.com/kdcllc/CronScheduler.AspNetCore) - Cron Jobs Scheduler for Asp.Net Core 2.x-8.x or .Net Core 2.x-8.x Self-hosted
 - [stevejgordon/MemoryPoolSample](https://github.com/stevejgordon/MemoryPoolSample) - 
 - [stevejgordon/ProgNetWorkshop2019](https://github.com/stevejgordon/ProgNetWorkshop2019) - This is the content for a 3 hour workshop run at ProgNET 2019.
 - [tdykstra/SystemTextJsonSample](https://github.com/tdykstra/SystemTextJsonSample) - 
@@ -3844,7 +3864,7 @@
 - [frederiksen/Stateless-Designer](https://github.com/frederiksen/Stateless-Designer) - Visual Studio extension to support visual design of stateless state machines. Support for Visual Studio 2012/2013/2015/2017.
 - [jbogard/ContosoUniversity](https://github.com/jbogard/ContosoUniversity) - Contoso University sample re-done the way I would build it
 - [vip30/Mediatr-FluentValidation-StructureMap-ASP.NET-Core-Boilerplate](https://github.com/vip30/Mediatr-FluentValidation-StructureMap-ASP.NET-Core-Boilerplate) - This is a CQRS for ASP.NET CORE Boilerplate
-- [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 6 application with DDD, CQRS and Event Sourcing concepts
+- [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - ASP.NET App using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices
 - [dncuug/X.PagedList](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET
 - [aspnet/JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - [Archived] This repository has been archived
 - [ligershark/CoreTemplatePack](https://github.com/ligershark/CoreTemplatePack) - A collection of .NET Core project templates
@@ -4070,7 +4090,7 @@
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -4102,7 +4122,7 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [NicolasLM/feedsubs](https://github.com/NicolasLM/feedsubs) - RSS feed reader for Python 3
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
@@ -4426,7 +4446,7 @@
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [thangchung/dapr-labs](https://github.com/thangchung/dapr-labs) - Many forms of coffeeshop implemented by C# and Rust run on WebAssembly/WASI (Spin) + Dapr. ⭐️ Star to support our work!
 - [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [Azure/terraform-azurerm-compute](https://github.com/Azure/terraform-azurerm-compute) - Terraform Azure RM Compute Module
 - [ned1313/Implementing-Terraform-on-Microsoft-Azure](https://github.com/ned1313/Implementing-Terraform-on-Microsoft-Azure) - Code examples for the Pluralsight course Implementing Terraform on Microsoft Azure
 - [ned1313/Getting-Started-Terraform](https://github.com/ned1313/Getting-Started-Terraform) - Exercise files for my Pluralsight course
@@ -4594,7 +4614,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [KristofferStrube/Blazor.WebAuthentication](https://github.com/KristofferStrube/Blazor.WebAuthentication) - A Blazor wrapper for the Web Authentication browser API.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers) - A collection of helper methods and classes for .NET that I use every day. I have packed them in a single library to avoid code duplication.
 - [marcominerva/OperationResults](https://github.com/marcominerva/OperationResults) - A set of lightweight libraries to totally decouple operation results and actual application responses.
