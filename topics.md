@@ -54,9 +54,10 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
-- [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
+- [discord](#discord)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -70,6 +71,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -122,6 +124,7 @@
 - [llm](#llm)
 - [localization](#localization)
 - [login](#login)
+- [low-code](#low-code)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -140,6 +143,7 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -150,7 +154,6 @@
 - [openai](#openai)
 - [opengl](#opengl)
 - [others](#others)
-- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [php](#php)
@@ -179,6 +182,7 @@
 - [sass](#sass)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -193,10 +197,12 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
+- [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -204,6 +210,7 @@
 - [vim](#vim)
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [wagtail](#wagtail)
@@ -226,21 +233,42 @@
 
 ## ai 
 
-- [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, da
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [kbeaugrand/SemanticKernel.Agents.DatabaseAgent](https://github.com/kbeaugrand/SemanticKernel.Agents.DatabaseAgent) - Powerful tool designed to generate SQL queries from natural language (NL2SQL) using Microsoft’s Semantic Kernel framework. This project aims to bridge the gap between human-readable queries and SQL, e
+- [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your .NET Applications
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [typper-io/ai-code-sandbox](https://github.com/typper-io/ai-code-sandbox) - Secure Python sandbox for AI/ML code execution using Docker. Run LLM outputs safely.
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [Azure-Samples/azure-ai-document-processing-samples](https://github.com/Azure-Samples/azure-ai-document-processing-samples) - A collection of samples demonstrating techniques for processing documents with Azure AI including AI Foundry, OpenAI, Document Intelligence, etc.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
+- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
+- [Azure-Samples/doc-intelligence-in-a-box](https://github.com/Azure-Samples/doc-intelligence-in-a-box) - The Doc Intelligence in-a-Box project leverages Azure AI Document Intelligence to extract data from PDF forms and store the data in a Azure Cosmos DB. This solution, part of the AI-in-a-Box framework 
+- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digita
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [jgw96/web-ai-toolkit](https://github.com/jgw96/web-ai-toolkit) - The Web AI Toolkit simplifies the integration of AI features, such as OCR, speech-to-text, text summarization and more into your application. It ensures data privacy and offline capability by running 
 - [denniszielke/gen-ai-code-execution-agent](https://github.com/denniszielke/gen-ai-code-execution-agent) - Secure Dynamic Session Agent for AI generated code execution built using OpenAI, Langchain and Azure Container Apps
 - [Jenscaasen/UniversalLLMFunctionCaller](https://github.com/Jenscaasen/UniversalLLMFunctionCaller) - A planner that integrates into Semantic Kernel to enable function calling on all Chat based LLMs (Mistral, Bard, Claude, LLama etc)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm) - A platform accelerating delivery of secure, trustworthy enterprise copilots.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) - SQL Server connector for Semantic Kernel plugin and Kernel Memory
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [bartczernicki/AzureOpenAILogProbs](https://github.com/bartczernicki/AzureOpenAILogProbs) - Examples of how-to use Azure OpenAI Log Probabilities (LogProbs) feature to enhance Generative AI - Q&A grounding.
@@ -248,9 +276,11 @@
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [marcominerva/KernelMemoryService](https://github.com/marcominerva/KernelMemoryService) - A lightweight implementation of Kernel Memory as a Service
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution acce
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [lemillermicrosoft/skonsole](https://github.com/lemillermicrosoft/skonsole) - A collection of Plugins and example console application built on the Semantic Kernel
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Azure/intelligent-app-workshop](https://github.com/Azure/intelligent-app-workshop) - Immersive workshop showcasing the remarkable potential of integrating SoTA foundation models to enhance product experiences and streamline backend workflows. Leverages Microsoft's Copilot stack, Seman
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [anthonypuppo/sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
@@ -261,6 +291,8 @@
 - [curiosity-ai/catalyst](https://github.com/curiosity-ai/catalyst) - 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
+- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [antoinejaussoin/retro-board](https://github.com/antoinejaussoin/retro-board) - Agile Retrospective Board
 
@@ -278,7 +310,7 @@
 ## analytics 
 
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [bartczernicki/ArtificialIntelligence-Presentations](https://github.com/bartczernicki/ArtificialIntelligence-Presentations) - Public location of delivered Artificial Intelligence & Machine Intelligence Presentations
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - Wangkanai is a collection of ASP.NET Core libraries that was developed internally over time and share common usage that would benefit everyone in the open source community as a whole.
@@ -310,7 +342,7 @@
 
 - [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 18, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [DanWahlin/AngularCLI-ASPNET-Core-CustomersService](https://github.com/DanWahlin/AngularCLI-ASPNET-Core-CustomersService) - Example of integrating Angular with ASP.NET Core RESTful Services
 - [JeremyLikness/BlazorHealthApp](https://github.com/JeremyLikness/BlazorHealthApp) - Example application ported from Angular 2 to Blazor
 - [KillerCodeMonkey/ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - Angular (&gt;=2) components for the Quill Rich Text Editor
@@ -324,7 +356,7 @@
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [damienbod/AspNetCoreAngularSignalR](https://github.com/damienbod/AspNetCoreAngularSignalR) - SignalR ASP.NET Core Angular
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
-- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 18 admin template based on Bootstrap 5
+- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 19 admin template based on Bootstrap 5
 - [andfomin/NgProjectTemplate](https://github.com/andfomin/NgProjectTemplate) - Angular CLI templates for Visual Studio
 - [mmacneil/AngularASPNETCore2WebApiAuth](https://github.com/mmacneil/AngularASPNETCore2WebApiAuth) - Sample project demonstrating jwt-based authentication with an Angular (v5.2.1) frontend and ASP.NET Core 2 WebApi.  Includes both local user registration with .NET Core Identity membership and faceboo
 - [valor-software/ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
@@ -383,7 +415,11 @@
 
 ## artificial-intelligence 
 
-- [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, da
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
+- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digita
 - [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) - SQL Server connector for Semantic Kernel plugin and Kernel Memory
 - [marcominerva/KernelMemoryService](https://github.com/marcominerva/KernelMemoryService) - A lightweight implementation of Kernel Memory as a Service
 - [pnp/syntex-samples](https://github.com/pnp/syntex-samples) - SharePoint Premium samples
@@ -401,7 +437,7 @@
 
 - [IvanJosipovic/BlazorTable](https://github.com/IvanJosipovic/BlazorTable) - Blazor Table Component with Sorting, Paging and Filtering
 - [bitwarden/passwordless-server](https://github.com/bitwarden/passwordless-server) - Bitwarden Passwordless.dev infrastructure/backend (API, database, Docker, etc).
-- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
 - [riganti/dotvvm](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps
 - [kamranayub/pluralsight-ravendb-4-getting-started](https://github.com/kamranayub/pluralsight-ravendb-4-getting-started) - Pluralsight course materials for RavenDB 4: Getting Started
 - [PosInformatique/PosInformatique.AspNet.WebForms.DependencyInjection](https://github.com/PosInformatique/PosInformatique.AspNet.WebForms.DependencyInjection) - PosInformatique.AspNet.WebForms.DependencyInjection is a library to add the IoC container support of Microsoft.Extensions.DependencyInjection for ASP .NET Web Forms
@@ -426,6 +462,10 @@
 
 ## automation 
 
+- [kdcllc/agentic-ai-github-stars](https://github.com/kdcllc/agentic-ai-github-stars) - Discover and leverage the power of AI to analyze and enhance GitHub repositories. This Python-based project offers seamless tools and insights tailored for developers and organizations looking to opti
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [NuKeeperDotNet/NuKeeper](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects
@@ -437,6 +477,8 @@
 
 ## awesome 
 
+- [jmatthiesen/dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources) - A collection of resources available to .NET developers working with AI.
+- [hlaueriksson/awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) - 🗂️🔎 Delightful PowerToys Run community plugins 🔌
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -458,11 +500,13 @@
 
 ## awesome-list 
 
+- [jmatthiesen/dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources) - A collection of resources available to .NET developers working with AI.
+- [hlaueriksson/awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) - 🗂️🔎 Delightful PowerToys Run community plugins 🔌
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & d
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
@@ -485,7 +529,7 @@
 
 - [FantasticFiasco/aws-signature-version-4](https://github.com/FantasticFiasco/aws-signature-version-4) - The buttoned-up and boring, but deeply analyzed, implementation of SigV4 in .NET
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [darkbitio/mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the 
 - [ned1313/Getting-Started-Terraform](https://github.com/ned1313/Getting-Started-Terraform) - Exercise files for my Pluralsight course
@@ -494,15 +538,24 @@
 
 ## azure 
 
+- [Azure-Samples/aspire-semantic-kernel-creative-writer](https://github.com/Azure-Samples/aspire-semantic-kernel-creative-writer) - A creative writing multi-agent solution to help users write articles using Aspire and Semantic Kernel
+- [microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop](https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop) - Build your first agent with Azure AI Agent Service Workshop
+- [Azure/co-op-translator](https://github.com/Azure/co-op-translator) - Easily automate the translation of your documentation into multiple languages, powered by Azure AI Services
+- [Azure-Samples/openai-end-to-end-baseline](https://github.com/Azure-Samples/openai-end-to-end-baseline) - This repo contains the reference implementation for the Microsoft Learn Azure OpenAI end to end chat baseline.
+- [devkimchi/semantic-kernel-streaming-api-sample](https://github.com/devkimchi/semantic-kernel-streaming-api-sample) - This provides sample app that shows the ASP.NET Core streaming API capability with Semantic Kernel
+- [Azure-Samples/azure-ai-document-processing-samples](https://github.com/Azure-Samples/azure-ai-document-processing-samples) - A collection of samples demonstrating techniques for processing documents with Azure AI including AI Foundry, OpenAI, Document Intelligence, etc.
+- [Azure/modern-web-app-pattern-dotnet](https://github.com/Azure/modern-web-app-pattern-dotnet) - The Modern Web App Pattern is a set of objectives to help you apply an iterative change to modernize a cloud deployed monolith. This content builds on the Reliable Web App. This repo contains a refere
+- [Azure/aca-dotnet-workshop](https://github.com/Azure/aca-dotnet-workshop) - A Dotnet Azure Container Apps workshop showcasing how to accelerate developers' ability to develop and ship distributed applications.
+- [Azure-Samples/doc-intelligence-in-a-box](https://github.com/Azure-Samples/doc-intelligence-in-a-box) - The Doc Intelligence in-a-Box project leverages Azure AI Document Intelligence to extract data from PDF forms and store the data in a Azure Cosmos DB. This solution, part of the AI-in-a-Box framework 
 - [fbeltrao/sql-filestream-to-storage-migration](https://github.com/fbeltrao/sql-filestream-to-storage-migration) - Tool to migrate SQL FileStream content to an Azure Storage
 - [microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
 - [cyclotron-azure/ai-accelerators](https://github.com/cyclotron-azure/ai-accelerators) - Generative AI Accelerators
 - [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
 - [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
+- [Azure-Samples/contoso-creative-writer](https://github.com/Azure-Samples/contoso-creative-writer) - A creative writing multi-agent solution to help users write articles.
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & d
 - [denniszielke/gen-ai-code-execution-agent](https://github.com/denniszielke/gen-ai-code-execution-agent) - Secure Dynamic Session Agent for AI generated code execution built using OpenAI, Langchain and Azure Container Apps
-- [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) - APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services
-- [kdcllc/tokenflow](https://github.com/kdcllc/tokenflow) - TokenFlow enables seamless access token capture thru azure device code
+- [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) - APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀
 - [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.
 - [Azure/azqr](https://github.com/Azure/azqr) - Azure Quick Review
 - [mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
@@ -516,6 +569,7 @@
 - [marcominerva/KernelMemoryService](https://github.com/marcominerva/KernelMemoryService) - A lightweight implementation of Kernel Memory as a Service
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 - [Azure-Samples/azureai-samples](https://github.com/Azure-Samples/azureai-samples) - Official community-driven Azure AI Examples
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution acce
 - [microsoft/azure-openai-service-proxy](https://github.com/microsoft/azure-openai-service-proxy) - The Azure AI proxy service facilitates easy access to Azure AI resources for workshops and hackathons. It offers a Playground-like interface and supports Azure AI SDKs. Access is granted through a tim
 - [dotnet/intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) - Get Started as a Web Developer with .NET, C#, and ASP.NET Core
 - [Azure-Samples/azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGP
@@ -526,7 +580,7 @@
 - [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples) - Azure OpenAI Samples is a collection of code samples illustrating how to use Azure Open AI in creating AI solution for various use cases across industries. This repository is mained by a community of 
 - [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 - [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most c
 - [Azure-Samples/miyagi](https://github.com/Azure-Samples/miyagi) - Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
@@ -541,7 +595,7 @@
 - [Azure-Samples/todo-csharp-sql-swa-func](https://github.com/Azure-Samples/todo-csharp-sql-swa-func) - A blueprint for getting a React web app with a C# API and a SQL database on Azure. The blueprint includes sample application code (a ToDo web app) which can be removed and replaced with your own appli
 - [bradygaster/dotnet-redis-pubsub](https://github.com/bradygaster/dotnet-redis-pubsub) - A simple example of how to use Redis with .NET and Azure Container Apps.
 - [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
-- [Azure/azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that reduces the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - co
+- [Azure/azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI (azd) provides developer-friendly commands that map to key workflow stages: code, build, deploy, monitor
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [ThorstenHans/azure-container-apps-samples](https://github.com/ThorstenHans/azure-container-apps-samples) - A collection of Azure Container Apps samples
@@ -549,7 +603,6 @@
 - [Carael/CrossBusExplorer](https://github.com/Carael/CrossBusExplorer) - Cross platform Azure Service Bus explorer
 - [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application is developed in C# and runs on Dapr (AKS)
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
-- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [shibayan/containerapps-acmebot](https://github.com/shibayan/containerapps-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure Container Apps (Custom domain / Custom DNS Suffix)
 - [Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps](https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps) - This repository demonstrates a typical front-end UI built with ASP.NET and a complementary back-end API.
 - [JanneMattila/sticky-notes](https://github.com/JanneMattila/sticky-notes) - Sticky Notes is simple but yet handy web-based planning tool mimicking https://en.wikipedia.org/wiki/Post-it_Note
@@ -579,9 +632,8 @@
 - [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding t
 - [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually repr
 - [Azure/azure-service-bus](https://github.com/Azure/azure-service-bus) - ☁️ Azure Service Bus service issue tracking and samples
-- [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open Source documentation for the Azure Architecture Center on Microsoft Docs
+- [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
 - [microsoft/AuthJanitor](https://github.com/microsoft/AuthJanitor) - Manage the lifecycle of application tokens, keys, and secrets in Azure
-- [kdcllc/AppAuthentication](https://github.com/kdcllc/AppAuthentication) - DotNetCore CLI tool for Local Docker Containers Access to Azure Resources via Microsoft Managed Identity
 - [Azure/azure-service-operator](https://github.com/Azure/azure-service-operator) - Azure Service Operator allows you to create Azure resources using kubectl
 - [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration) - Questions, feedback and samples for Azure App Configuration service
 - [abhirockzz/tour-of-dapr](https://github.com/abhirockzz/tour-of-dapr) - Resources for "A Tour of Dapr"
@@ -654,7 +706,7 @@
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [StartBootstrap/startbootstrap-clean-blog](https://github.com/StartBootstrap/startbootstrap-clean-blog) - A clean Bootstrap blog theme created by Start Bootstrap
 - [vietnam-devs/crmcore](https://github.com/vietnam-devs/crmcore) - A lightweight CRM Web Application builds with a clean modern architecture and technology
-- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 18 admin template based on Bootstrap 5
+- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 19 admin template based on Bootstrap 5
 - [valor-software/ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
 - [RisingStack/risingstack-bootcamp](https://github.com/RisingStack/risingstack-bootcamp) - This is the Node.js Bootcamp we ask new recruits at RisingStack to finish in their first weeks. It helps to get the basics right, and prepare you to work on enterprise projects.
 
@@ -666,31 +718,43 @@
 
 ## chatbot 
 
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - AI Multi-Agent Framework in .NET
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [dmatrix/genai-cookbook](https://github.com/dmatrix/genai-cookbook) - A mixture of Gen AI cookbook recipes for Gen AI applications.
 - [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
 - [Azure-Samples/serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution acce
 - [LucasBassetti/react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - :speech_balloon: Easy way to create conversation chats
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
 
 ## chatgpt 
 
-- [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper,  and DALL-E
+- [typper-io/ai-code-sandbox](https://github.com/typper-io/ai-code-sandbox) - Secure Python sandbox for AI/ML code execution using Docker. Run LLM outputs safely.
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [betalgo/openai](https://github.com/betalgo/openai) - .NET library for the OpenAI service API by Betalgo Ranul
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [Azure-Samples/contoso-creative-writer](https://github.com/Azure-Samples/contoso-creative-writer) - A creative writing multi-agent solution to help users write articles.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution acce
 - [Azure-Samples/azure-openai-rag-workshop](https://github.com/Azure-Samples/azure-openai-rag-workshop) - Create your own ChatGPT with Retrieval-Augmented-Generation workshop
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [lemillermicrosoft/skonsole](https://github.com/lemillermicrosoft/skonsole) - A collection of Plugins and example console application built on the Semantic Kernel
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [anthonypuppo/sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -709,16 +773,23 @@
 
 ## chrome-extension 
 
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
+- [gptme/gptme-rag](https://github.com/gptme/gptme-rag) - Local RAG as a simple CLI, for standalone use or as a gptme tool
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [vysakh0/dravid](https://github.com/vysakh0/dravid) - AI powered cli coding agent that monitors your dev/test server and fixes errors and adds features
 - [Azure-Samples/cosmicworks](https://github.com/Azure-Samples/cosmicworks) - Command-line tool to generate Azure Cosmos DB for NoSQL data
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & d
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -742,7 +813,8 @@
 
 ## code 
 
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp) - Samples associated with Pluralsight design patterns in c# courses.
 
 ## code-quality 
@@ -757,7 +829,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [deepakkumar1984/Amplifier.NET](https://github.com/deepakkumar1984/Amplifier.NET) - Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code. Write your funct
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
@@ -780,7 +852,7 @@
 
 - [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [jenkinsci/kubernetes-operator](https://github.com/jenkinsci/kubernetes-operator) - Kubernetes native Jenkins Operator
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
@@ -802,22 +874,28 @@
 
 ## csharp 
 
-- [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper,  and DALL-E
+- [kdcllc/SemanticKernel-MultiAgent-Copilot-Integration](https://github.com/kdcllc/SemanticKernel-MultiAgent-Copilot-Integration) - Empower your projects with Autonomous Multi-Agent Group Chats, seamlessly integrated with Copilot Agent Plugins using the cutting-edge Microsoft Semantic Kernel. Unlock the future of AI-driven collabo
+- [alirezanet/Gridify](https://github.com/alirezanet/Gridify) - Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data.
+- [jmatthiesen/dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources) - A collection of resources available to .NET developers working with AI.
+- [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
+- [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
+- [betalgo/openai](https://github.com/betalgo/openai) - .NET library for the OpenAI service API by Betalgo Ranul
 - [UglyToad/PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
 - [unoplatform/Uno.Samples](https://github.com/unoplatform/Uno.Samples) - A collection of code samples for the Uno Platform
 - [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
 - [openai/openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 - [bartczernicki/AzureOpenAILogProbs](https://github.com/bartczernicki/AzureOpenAILogProbs) - Examples of how-to use Azure OpenAI Log Probabilities (LogProbs) feature to enhance Generative AI - Q&A grounding.
+- [microsoft/AzUrlShortener](https://github.com/microsoft/AzUrlShortener) - An simple and easy Url Shortener
 - [laurentkempe/aspirePlayground](https://github.com/laurentkempe/aspirePlayground) - Some experiments around .NET Aspire to learn.
 - [marcominerva/KernelMemoryService](https://github.com/marcominerva/KernelMemoryService) - A lightweight implementation of Kernel Memory as a Service
 - [dotnet/intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) - Get Started as a Web Developer with .NET, C#, and ASP.NET Core
 - [dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
-- [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - C# Developer's Exciting Journey into Python World 🐍
+- [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - Embark on a C# developer's journey into the Python programming world. Explore hands-on examples, Jupyter Notebooks, and Python scripts designed to help C# enthusiasts transition seamlessly to Python. 
 - [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.
 - [mini-software/MiniWord](https://github.com/mini-software/MiniWord) - .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
 - [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
 - [ILoveDotNet/ilovedotnet](https://github.com/ILoveDotNet/ilovedotnet) - I love to teach dotnet concepts in a simple way with real world examples to people who aspire to to be a dotnet developer. I also help developers to refresh their memory with easy to understand analog
-- [edgedb/edgedb-net](https://github.com/edgedb/edgedb-net) - The official .NET client library for EdgeDB
+- [geldata/gel-net](https://github.com/geldata/gel-net) - The official .NET client library for EdgeDB
 - [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor) - Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications
 - [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers) - A collection of helper methods and classes for .NET that I use every day. I have packed them in a single library to avoid code duplication.
 - [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.
@@ -845,7 +923,6 @@
 - [marcominerva/SimpleAuthentication](https://github.com/marcominerva/SimpleAuthentication) - A library to easily integrate Authentication in ASP.NET Core projects.
 - [IEvangelist/learning-blazor](https://github.com/IEvangelist/learning-blazor) - The application for the "Learning Blazor: Build Single Page Apps with WebAssembly and C#" O'Reilly Media book by David Pine.
 - [JohnMarsing/BlazorServerSamples](https://github.com/JohnMarsing/BlazorServerSamples) - My collection of samples on leveraging Blazor Server
-- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
 - [JoeyMckenzie/BlazorConduit](https://github.com/JoeyMckenzie/BlazorConduit) - A Medium clone written using .NET Core and Blazor!
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [Azure-Samples/azure-ad-workload-identity](https://github.com/Azure-Samples/azure-ad-workload-identity) - This project shows how to use Azure AD workload identity for Kubernetes in a .NET Standard application running on Azure Kubernetes Service. It leverages the public preview capability of Azure AD workl
@@ -891,15 +968,16 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
 - [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [cecilphillip/azure-servicebus-pubsub-hol](https://github.com/cecilphillip/azure-servicebus-pubsub-hol) - 
+- [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Now upgraded to .NET 9, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and MediatR. It includes an ASP.NET Core Razor Pages implementation for inventory ord
 - [nager/Nager.AmazonProductAdvertising](https://github.com/nager/Nager.AmazonProductAdvertising) - .NET Amazon Product Advertising Client
-- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
+- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
 - [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
 - [thangchung/blog-core](https://github.com/thangchung/blog-core) - Modular blog using Blazor with clean domain-driven design patterns
 - [OrleansContrib/Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) - A distributed saga implementation for Orleans
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
-- [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores.
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2025
+- [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores using Shopify's GraphQL API.
 - [kalintsenkov/BlazorShop](https://github.com/kalintsenkov/BlazorShop) - ASP.NET Core | Blazor WebAssembly | Simple Shop application
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [kamranayub/pluralsight-ravendb-4-getting-started](https://github.com/kamranayub/pluralsight-ravendb-4-getting-started) - Pluralsight course materials for RavenDB 4: Getting Started
@@ -932,7 +1010,7 @@
 - [thomaslevesque/Extensions.Hosting.AsyncInitialization](https://github.com/thomaslevesque/Extensions.Hosting.AsyncInitialization) - Async initialization for .NET 6.0+ apps using the generic host (e.g. ASP.NET Core apps)
 - [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 18, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [tonerdo/pose](https://github.com/tonerdo/pose) - Replace any .NET method (including static and non-virtual) with a delegate
@@ -952,6 +1030,7 @@
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [surban/PLplotNet](https://github.com/surban/PLplotNet) - PLplot bindings for .Net
+- [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 - [tonerdo/dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files
 - [RickStrahl/Westwind.AspNetCore](https://github.com/RickStrahl/Westwind.AspNetCore) - ASP.NET Core Helpers and Utilities
 - [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
@@ -964,7 +1043,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [vietnam-devs/crmcore](https://github.com/vietnam-devs/crmcore) - A lightweight CRM Web Application builds with a clean modern architecture and technology
 - [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [josephwoodward/graphiql-dotnet](https://github.com/josephwoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core
@@ -986,9 +1065,10 @@
 
 ## css 
 
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [milkshakesoftware/PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
@@ -1022,12 +1102,13 @@
 
 ## data-analysis 
 
-- [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, da
+- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digita
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 
 ## data-science 
 
-- [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, da
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digita
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [bartczernicki/ArtificialIntelligence-Presentations](https://github.com/bartczernicki/ArtificialIntelligence-Presentations) - Public location of delivered Artificial Intelligence & Machine Intelligence Presentations
@@ -1044,7 +1125,7 @@
 
 - [Bardin08/db-seeder](https://github.com/Bardin08/db-seeder) - DB Seeder: Quickly populate databases with meaningful test data from SQL scripts. Speed, convenience, scalability. 💡
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
-- [edgedb/edgedb-net](https://github.com/edgedb/edgedb-net) - The official .NET client library for EdgeDB
+- [geldata/gel-net](https://github.com/geldata/gel-net) - The official .NET client library for EdgeDB
 - [JonPSmith/EfCoreinAction-SecondEdition](https://github.com/JonPSmith/EfCoreinAction-SecondEdition) - Supporting repo to go with book "Entity Framework Core in Action", second edition
 - [SteffenMangold/EntityFrameworkCore.Cacheable](https://github.com/SteffenMangold/EntityFrameworkCore.Cacheable) - EntityFrameworkCore second level cache
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
@@ -1057,7 +1138,7 @@
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [firesharkstudios/butterfly-server](https://github.com/firesharkstudios/butterfly-server) - The Everything is Real-Time C# Backend for Single Page Applications
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
@@ -1082,22 +1163,28 @@
 - [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
-## deployment 
-
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
-
 ## design 
 
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
+## development 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [dotnet/dev-proxy](https://github.com/dotnet/dev-proxy) - Simulate API failures, throttling, and chaos — all from your command line.
+- [Bardin08/db-seeder](https://github.com/Bardin08/db-seeder) - DB Seeder: Quickly populate databases with meaningful test data from SQL scripts. Speed, convenience, scalability. 💡
+- [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
+- [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
+
 ## devops 
 
 - [microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [roberthstrand/demo-gitops](https://github.com/roberthstrand/demo-gitops) - This repository is used as a base for all talks I hold about GitOps.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [microsoft/rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing) - REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enable
@@ -1105,6 +1192,10 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [Azure/azure-devops-cli-extension](https://github.com/Azure/azure-devops-cli-extension) - Azure DevOps Extension for Azure CLI
+
+## discord 
+
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 
 ## django 
 
@@ -1132,11 +1223,11 @@
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [EdwinVW/pitstop](https://github.com/EdwinVW/pitstop) - This repo contains a sample application based on a Garage Management System for Pitstop - a fictitious garage. The primary goal of this sample is to demonstrate several software-architecture concepts 
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [thbst16/dotnet-blazor-crud](https://github.com/thbst16/dotnet-blazor-crud) - Modular application for database CRUD with Blazor. Uses an in-memory database and features dummy data generation and data pagination.
 - [cecilphillip/yarp-samples](https://github.com/cecilphillip/yarp-samples) - Samples for setting up YARP and HTTP APIs
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 - [container-desktop/container-desktop](https://github.com/container-desktop/container-desktop) - Provides an alternative for Docker for Desktop on Windows using WSL2.
 - [kdcllc/Bet.Extensions](https://github.com/kdcllc/Bet.Extensions) - A collection of projects that provides with K8s support for DotNetCore projects.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1150,7 +1241,6 @@
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [wardviaene/kubernetes-course](https://github.com/wardviaene/kubernetes-course) - Kubernetes Course Files
 - [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) - Project codes used in "The Docker Handbook"
-- [kdcllc/AppAuthentication](https://github.com/kdcllc/AppAuthentication) - DotNetCore CLI tool for Local Docker Containers Access to Azure Resources via Microsoft Managed Identity
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
@@ -1171,7 +1261,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [nguoianphu/docker-sybase](https://github.com/nguoianphu/docker-sybase) - Docker Sybase ASE image
-- [kdcllc/win10andwsldev](https://github.com/kdcllc/win10andwsldev) - Windows 11 with Windows Linux Subsystem (WSL) Development
+- [kdcllc/win10andwsldev](https://github.com/kdcllc/win10andwsldev) - Streamline Your Windows 10 and WSL Development Workflow Discover how to optimize your development workflow on Windows 10 using WSL (Windows Subsystem for Linux). This repository provides tools, script
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [thangchung/magazine-website](https://github.com/thangchung/magazine-website) - :mouse: A magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied...
@@ -1185,19 +1275,26 @@
 
 ## documentation 
 
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs) - Documentation for Entity Framework Core and Entity Framework 6
-- [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open Source documentation for the Azure Architecture Center on Microsoft Docs
+- [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
 - [dotnet/try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 
 ## dotnet 
 
-- [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper,  and DALL-E
-- [easykeys/EasyKeys.Shipping](https://github.com/easykeys/EasyKeys.Shipping) - FedEx, Usps, Stamps.com Shipping Implementations
+- [alirezanet/Gridify](https://github.com/alirezanet/Gridify) - Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data.
+- [jmatthiesen/dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources) - A collection of resources available to .NET developers working with AI.
+- [devkimchi/semantic-kernel-streaming-api-sample](https://github.com/devkimchi/semantic-kernel-streaming-api-sample) - This provides sample app that shows the ASP.NET Core streaming API capability with Semantic Kernel
+- [Azure/modern-web-app-pattern-dotnet](https://github.com/Azure/modern-web-app-pattern-dotnet) - The Modern Web App Pattern is a set of objectives to help you apply an iterative change to modernize a cloud deployed monolith. This content builds on the Reliable Web App. This repo contains a refere
+- [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
+- [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
+- [betalgo/openai](https://github.com/betalgo/openai) - .NET library for the OpenAI service API by Betalgo Ranul
+- [easykeys/EasyKeys.Shipping](https://github.com/easykeys/EasyKeys.Shipping) - Amazon Shipping,FedEx, Usps, Stamps.com Shipping Implementations
 - [Azure-Samples/cosmicworks](https://github.com/Azure-Samples/cosmicworks) - Command-line tool to generate Azure Cosmos DB for NoSQL data
 - [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
-- [dotnet-presentations/letslearn-dotnet-aspire](https://github.com/dotnet-presentations/letslearn-dotnet-aspire) - Let's Learn .NET Aspire workshop material!
+- [dotnet-presentations/dotnet-aspire-workshop](https://github.com/dotnet-presentations/dotnet-aspire-workshop) - This .NET Aspire workshop will get you started building apps with .NET Aspire!
 - [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
 - [Jenscaasen/UniversalLLMFunctionCaller](https://github.com/Jenscaasen/UniversalLLMFunctionCaller) - A planner that integrates into Semantic Kernel to enable function calling on all Chat based LLMs (Mistral, Bard, Claude, LLama etc)
 - [openai/openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
@@ -1209,7 +1306,7 @@
 - [laurentkempe/aspirePlayground](https://github.com/laurentkempe/aspirePlayground) - Some experiments around .NET Aspire to learn.
 - [dotnet/intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) - Get Started as a Web Developer with .NET, C#, and ASP.NET Core
 - [ucrengineer/semantic-aspire](https://github.com/ucrengineer/semantic-aspire) - semantic kernel examples with aspire endpoints.
-- [dotnet/aspire](https://github.com/dotnet/aspire) - An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
 - [anthonypuppo/skpersona](https://github.com/anthonypuppo/skpersona) - Demonstration of how to give Language Models (LLMs) a unique persona using part of speech tagging and logit bias.
 - [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.
 - [mini-software/MiniWord](https://github.com/mini-software/MiniWord) - .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
@@ -1219,7 +1316,7 @@
 - [dotnet/sdk](https://github.com/dotnet/sdk) - Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
 - [ILoveDotNet/ilovedotnet](https://github.com/ILoveDotNet/ilovedotnet) - I love to teach dotnet concepts in a simple way with real world examples to people who aspire to to be a dotnet developer. I also help developers to refresh their memory with easy to understand analog
 - [OrleansContrib/OrleansTestKit](https://github.com/OrleansContrib/OrleansTestKit) - Unit Test Toolkit for Microsoft Orleans
-- [edgedb/edgedb-net](https://github.com/edgedb/edgedb-net) - The official .NET client library for EdgeDB
+- [geldata/gel-net](https://github.com/geldata/gel-net) - The official .NET client library for EdgeDB
 - [atifaziz/NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET
 - [telstrapurple/PurpleExplorer](https://github.com/telstrapurple/PurpleExplorer) - cross-platform Azure Service Bus explorer (Windows, MacOS, Linux)
 - [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.
@@ -1234,7 +1331,7 @@
 - [sveinungf/spreadcheetah](https://github.com/sveinungf/spreadcheetah) - SpreadCheetah is a high-performance .NET library for generating spreadsheet (Microsoft Excel XLSX) files.
 - [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) - Rust for C#/.NET Developers
 - [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet) - A ChatGPT integration library for .NET, supporting both OpenAI and Azure OpenAI Service
-- [rafaelfgx/DotNetCore](https://github.com/rafaelfgx/DotNetCore) - .NET 8 Nuget Packages.
+- [rafaelfgx/DotNetCore](https://github.com/rafaelfgx/DotNetCore) - .NET 9 Nuget Packages.
 - [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application is developed in C# and runs on Dapr (AKS)
 - [bitwarden/passwordless-server](https://github.com/bitwarden/passwordless-server) - Bitwarden Passwordless.dev infrastructure/backend (API, database, Docker, etc).
 - [otterkit/otterkit-cobol](https://github.com/otterkit/otterkit-cobol) - A free and open source Standard COBOL compiler for 64-bit environments
@@ -1250,7 +1347,6 @@
 - [graphql-dotnet/conventions](https://github.com/graphql-dotnet/conventions) - GraphQL Conventions Library for .NET
 - [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.
 - [IEvangelist/learning-blazor](https://github.com/IEvangelist/learning-blazor) - The application for the "Learning Blazor: Build Single Page Apps with WebAssembly and C#" O'Reilly Media book by David Pine.
-- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
 - [JoeyMckenzie/BlazorConduit](https://github.com/JoeyMckenzie/BlazorConduit) - A Medium clone written using .NET Core and Blazor!
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [microsoft/vs-validation](https://github.com/microsoft/vs-validation) - Common input and integrity validation routines for Visual Studio and other applications
@@ -1271,7 +1367,7 @@
 - [NuKeeperDotNet/NuKeeper](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects
 - [moritzmla/Reddnet](https://github.com/moritzmla/Reddnet) - 🎭 Minimal Reddit clone
 - [damienbod/Blazor.BFF.AzureAD.Template](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - Blazor.BFF.AzureAD.Template,  Blazor WASM hosted in ASP.NET Core using Microsoft Entra ID BFF (server authentication)
-- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 - [staticwebdev/blazor-starter](https://github.com/staticwebdev/blazor-starter) - A starter template in C# APIs and Blazor for Azure Static Web Apps
 - [unosquare/raspberryio](https://github.com/unosquare/raspberryio) - The Raspberry Pi's IO Functionality in an easy-to-use API for Mono/.NET/C#
 - [Marusyk/grok.net](https://github.com/Marusyk/grok.net) - .NET implementation of the grok 📝
@@ -1284,7 +1380,7 @@
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing) - An example of integration testing ASP.NET Core Minimal hosting and APIs
 - [ardalis/Ardalis.Extensions](https://github.com/ardalis/Ardalis.Extensions) - Some random C# extension methods I've found useful. Published as Ardalis.Extensions on Nuget.
 - [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
-- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
+- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
 - [koenvzeijl/AspNetCore.SassCompiler](https://github.com/koenvzeijl/AspNetCore.SassCompiler) - Sass Compiler Library for .NET Core 3.1/5.x/6.x/7.x without node, using dart-sass as a compiler
 - [man-group/dapr-sidekick-dotnet](https://github.com/man-group/dapr-sidekick-dotnet) - Dapr Sidekick for .NET - a lightweight lifetime management component for Dapr
 - [kdcllc/Bet.Extensions.Wkhtmltopdf](https://github.com/kdcllc/Bet.Extensions.Wkhtmltopdf) - DotNetCore Wkhtmltopdf
@@ -1298,13 +1394,13 @@
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on the functionality from http://WireMock.org, but extende
 - [bsheldrick/validatum](https://github.com/bsheldrick/validatum) - An open-source library for building fluent validation functions for .NET.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 - [buehler/dotnet-operator-sdk](https://github.com/buehler/dotnet-operator-sdk) - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
 - [nager/Nager.AmazonProductAdvertising](https://github.com/nager/Nager.AmazonProductAdvertising) - .NET Amazon Product Advertising Client
 - [OrleansContrib/Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) - A distributed saga implementation for Orleans
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
-- [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores.
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2025
+- [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores using Shopify's GraphQL API.
 - [engineerd/kubecontroller-csharp](https://github.com/engineerd/kubecontroller-csharp) - Lightweight Kubernetes controller for CRDs
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DevExpress/AjaxControlToolkit](https://github.com/DevExpress/AjaxControlToolkit) - The ASP.NET AJAX Control Toolkit is a classic set of ASP.NET WebForms extensions.
@@ -1356,7 +1452,7 @@
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [blehnen/DotNetWorkQueue](https://github.com/blehnen/DotNetWorkQueue) - A work queue for dot.net with SQL server, SQLite, Redis and PostGreSQL backends
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 18, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [RehanSaeed/Serilog.Exceptions](https://github.com/RehanSaeed/Serilog.Exceptions) - Log exception details and custom properties that are not output in Exception.ToString().
 - [thomaslevesque/InternalsVisibleTo.MSBuild](https://github.com/thomaslevesque/InternalsVisibleTo.MSBuild) - Enables declaring 'InternalsVisibleTo' items in a .NET project file, rather than declaring them to an AssemblyInfo.cs file.
@@ -1387,6 +1483,7 @@
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [surban/PLplotNet](https://github.com/surban/PLplotNet) - PLplot bindings for .Net
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway
 - [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
@@ -1413,7 +1510,7 @@
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 - [vietnam-devs/crmcore](https://github.com/vietnam-devs/crmcore) - A lightweight CRM Web Application builds with a clean modern architecture and technology
 - [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [RendleLabs/dotnet-unpkg](https://github.com/RendleLabs/dotnet-unpkg) - Pure .NET front-end HTML package management using unpkg.com as a source
 - [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
@@ -1423,7 +1520,7 @@
 - [microsoft/vstest](https://github.com/microsoft/vstest) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
 - [dotnet/templating](https://github.com/dotnet/templating) - This repo contains the Template Engine which is used by dotnet new
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [OpenLiveWriter/OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) - An open source fork of Windows Live Writer
 - [mayuki/Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner for .NET platform
 - [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
@@ -1451,12 +1548,13 @@
 ## education 
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## electron 
 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [artiebits/pdf-to-printer](https://github.com/artiebits/pdf-to-printer) - Print PDFs and images from Node.js and Electron
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
@@ -1475,7 +1573,7 @@
 ## elixir 
 
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## ember 
 
@@ -1498,7 +1596,7 @@
 ## eslint 
 
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 
 ## express 
@@ -1506,6 +1604,11 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [fhsinchy/kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects) - Project codes used in "The Kubernetes Handbook"
 - [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) - Project codes used in "The Docker Handbook"
+
+## facebook 
+
+- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
+- [nemiro-net/nemiro.oauth](https://github.com/nemiro-net/nemiro.oauth) - Nemiro.OAuth is a class library for authorization via OAuth protocol in .NET Framework
 
 ## firefox 
 
@@ -1522,14 +1625,19 @@
 
 ## font 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## framework 
 
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
@@ -1569,13 +1677,13 @@
 ## git 
 
 - [alirezanet/Husky.Net](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner! 🐶 It brings the dev-dependency concept to the .NET world!
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [NuKeeperDotNet/NuKeeper](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [Azure/azure-devops-cli-extension](https://github.com/Azure/azure-devops-cli-extension) - Azure DevOps Extension for Azure CLI
 - [hangxingliu/wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
 - [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
@@ -1586,6 +1694,8 @@
 
 ## github 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
@@ -1601,7 +1711,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
@@ -1627,7 +1737,7 @@
 
 ## golang 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
@@ -1656,8 +1766,8 @@
 
 ## good-first-issue 
 
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## google 
@@ -1680,13 +1790,15 @@
 - [zangassis/blogosphere](https://github.com/zangassis/blogosphere) - This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).
 - [Shopify/storefront-api-examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API
 - [graphql-dotnet/conventions](https://github.com/graphql-dotnet/conventions) - GraphQL Conventions Library for .NET
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [landmarkhw/Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) - A .NET Core library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
-- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
+- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
 - [Giorgi/GraphQLinq](https://github.com/Giorgi/GraphQLinq) - LINQ to GraphQL - Strongly typed GraphQL queries with LINQ query syntax. No more magic strings and runtime errors.
 - [thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - A full-stack .NET microservices build on Dapr and Tye
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+- [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores using Shopify's GraphQL API.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1705,16 +1817,13 @@
 
 ## hacktoberfest 
 
-- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
-- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
-- [metz-sh/simulacrum](https://github.com/metz-sh/simulacrum) - Code-playground to visualise complex engineering flows.
-- [microsoft/dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [dotnet/dev-proxy](https://github.com/dotnet/dev-proxy) - Simulate API failures, throttling, and chaos — all from your command line.
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [unoplatform/Uno.Samples](https://github.com/unoplatform/Uno.Samples) - A collection of code samples for the Uno Platform
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & d
 - [pnp/copilot-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
 - [Azure/azqr](https://github.com/Azure/azqr) - Azure Quick Review
-- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
-- [microsoft/AzUrlShortener](https://github.com/microsoft/AzUrlShortener) - An simple and easy Url Shortener
 - [Azure-AI-Community/Microsoft-Semantic-Kernel-Community-dotnet](https://github.com/Azure-AI-Community/Microsoft-Semantic-Kernel-Community-dotnet) - 
 - [microsoft/NubesGen](https://github.com/microsoft/NubesGen) - Going to production on Azure is only one `git push` away
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1729,15 +1838,11 @@
 - [render-engine/render-engine](https://github.com/render-engine/render-engine) - Python Static Site Generator built with flexibility prioritized
 - [openfga/dotnet-sdk](https://github.com/openfga/dotnet-sdk) - OpenFGA SDK for .NET - https://www.nuget.org/packages/OpenFga.Sdk
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers) - A collection of helper methods and classes for .NET that I use every day. I have packed them in a single library to avoid code duplication.
 - [atifaziz/NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET
 - [ardalis/HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [Azure/azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that reduces the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - co
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [FantasticFiasco/aws-signature-version-4](https://github.com/FantasticFiasco/aws-signature-version-4) - The buttoned-up and boring, but deeply analyzed, implementation of SigV4 in .NET
 - [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet) - A ChatGPT integration library for .NET, supporting both OpenAI and Azure OpenAI Service
@@ -1762,7 +1867,6 @@
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [microsoft/PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
 - [bUnit-dev/bUnit](https://github.com/bUnit-dev/bUnit) - bUnit is a testing library for Blazor components that make tests look, feel, and runs like regular unit tests. bUnit makes it easy to render and control a component under test’s life-cycle, pass param
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [thomaslevesque/CosmosDBStudio](https://github.com/thomaslevesque/CosmosDBStudio) - A tool to browse and query Azure Cosmos DB databases
 - [ardalis/Ardalis.Extensions](https://github.com/ardalis/Ardalis.Extensions) - Some random C# extension methods I've found useful. Published as Ardalis.Extensions on Nuget.
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
@@ -1773,7 +1877,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [Tyrrrz/MiniRazor](https://github.com/Tyrrrz/MiniRazor) - Portable Razor compiler & code generator
-- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
+- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
 - [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
@@ -1792,7 +1896,6 @@
 - [egfanboy/react-sudoku](https://github.com/egfanboy/react-sudoku) - Simple sudoku game made with React
 - [bjorkstromm/depends](https://github.com/bjorkstromm/depends) - Tool for generating dependency trees for .NET projects
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [ctolkien/Slugify](https://github.com/ctolkien/Slugify) - Simple Slug / Clean URL generator helper for Microsoft .NET framework / .NET Standard.
 - [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
 - [DevBetterCom/DevBetterWeb](https://github.com/DevBetterCom/DevBetterWeb) - A simple web application for devBetter
@@ -1818,7 +1921,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [dotnet/razor](https://github.com/dotnet/razor) - Compiler and tooling experience for Razor ASP.NET Core apps in Visual Studio, Visual Studio for Mac, and VS Code.
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [terrafx/terrafx](https://github.com/terrafx/terrafx) - A framework for developing multimedia-based applications.
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
@@ -1841,15 +1943,14 @@
 - [excellalabs/xluhco](https://github.com/excellalabs/xluhco) - A URL shortener for Excella that lives at http://xluh.co (Excellaco. Get it?) -- you can adapt it for your company, too!
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 RC1, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 3, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [code-cracker/code-cracker](https://github.com/code-cracker/code-cracker) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [phmonte/Buildalyzer](https://github.com/phmonte/Buildalyzer) - A utility to perform design-time builds of .NET projects without having to think too hard about it.
 - [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-- [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 - [cake-contrib/Cake.BuildSystems.Module](https://github.com/cake-contrib/Cake.BuildSystems.Module) - :cake: :wrench: A simple Cake module to enhance running from a TF Build environment
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
@@ -1875,9 +1976,10 @@
 
 ## html 
 
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - Generate and edit PDF documents in your .NET applications using the open-source QuestPDF library and its C# Fluent API. Build invoices, reports and data exports with ease.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [mganss/HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
@@ -1907,7 +2009,7 @@
 ## http 
 
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [microsoft/dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
+- [dotnet/dev-proxy](https://github.com/dotnet/dev-proxy) - Simulate API failures, throttling, and chaos — all from your command line.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [FantasticFiasco/aws-signature-version-4](https://github.com/FantasticFiasco/aws-signature-version-4) - The buttoned-up and boring, but deeply analyzed, implementation of SigV4 in .NET
@@ -1921,7 +2023,7 @@
 
 ## https 
 
-- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Remember to Star us! Download from ce
 - [damienbod/Secure_gRpc](https://github.com/damienbod/Secure_gRpc) - Security Experiments with gRPC and ASP.NET Core 5
 - [fszlin/certes](https://github.com/fszlin/certes) - A client implementation for the Automated Certificate Management Environment (ACME) protocol
 - [natemcmaster/LettuceEncrypt](https://github.com/natemcmaster/LettuceEncrypt) - Free, automatic HTTPS certificate generation for ASP.NET Core web apps
@@ -1959,8 +2061,9 @@
 
 ## iot 
 
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [microsoft/dotnetconf-studentzone](https://github.com/microsoft/dotnetconf-studentzone) - .NET Student Zone .NET Conference
+- [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 
 ## java 
 
@@ -1976,6 +2079,12 @@
 
 ## javascript 
 
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [Azure-Samples/serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure
 - [microsoft/object-basin](https://github.com/microsoft/object-basin) - JavaScript/TypeScript + .NET libraries to stream updates to an object using JSONPaths and JSON Patches
@@ -1988,8 +2097,8 @@
 - [khalidabuhakmeh/Htmx.Net](https://github.com/khalidabuhakmeh/Htmx.Net) - Adds extensions methods to HttpResponse and HttpRequest to make working with Htmx easier.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
@@ -2059,6 +2168,7 @@
 
 ## js 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [1Marc/modern-todomvc-vanillajs](https://github.com/1Marc/modern-todomvc-vanillajs) - TodoMVC with Modern (ES6+), Vanilla JavaScript
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -2066,6 +2176,7 @@
 
 ## json 
 
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [seven1m/bible_api](https://github.com/seven1m/bible_api) - Ruby web app that serves JSON API for open and public domain bibles
@@ -2094,7 +2205,8 @@
 ## kubernetes 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - Opinionated AKS + OSS stack with ArgoCD, CAPZ/ASO or Crossplane, Terraform, Backstage
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [IvanJosipovic/KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface
 - [paolosalvatori/shared-azure-openai-tpm](https://github.com/paolosalvatori/shared-azure-openai-tpm) - This example shows how a multitenant service can distribute requests evenly among multiple Azure OpenAI Service instances and manage tokens per minute (TPM) for multiple tenants.
 - [kdcllc/vscode-k8s-pack](https://github.com/kdcllc/vscode-k8s-pack) - K8s Dev Pack VS Code https://code.visualstudio.com
@@ -2130,7 +2242,6 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [wardviaene/kubernetes-course](https://github.com/wardviaene/kubernetes-course) - Kubernetes Course Files
-- [kdcllc/AppAuthentication](https://github.com/kdcllc/AppAuthentication) - DotNetCore CLI tool for Local Docker Containers Access to Azure Resources via Microsoft Managed Identity
 - [Azure/azure-service-operator](https://github.com/Azure/azure-service-operator) - Azure Service Operator allows you to create Azure resources using kubectl
 - [darkbitio/mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the 
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
@@ -2163,7 +2274,7 @@
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [Azure/aad-pod-identity](https://github.com/Azure/aad-pod-identity) - [DEPRECATED] Assign Azure Active Directory Identities to Kubernetes applications.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [microsoft/ApplicationInsights-Kubernetes](https://github.com/microsoft/ApplicationInsights-Kubernetes) - Enrich the telemetry data for .NET applications running inside containers that are managed by Kubernetes.
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
@@ -2196,6 +2307,7 @@
 
 ## library 
 
+- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - Generate and edit PDF documents in your .NET applications using the open-source QuestPDF library and its C# Fluent API. Build invoices, reports and data exports with ease.
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [shubhamranjan/dotnet-etcd](https://github.com/shubhamranjan/dotnet-etcd) - A C# .NET (dotnet) GRPC client for etcd v3 +
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
@@ -2209,7 +2321,6 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
-- [kdcllc/windows11-to-linux-dev-journey](https://github.com/kdcllc/windows11-to-linux-dev-journey) - Journey from Windows 11 to Linux as a full-stack developer
 - [telstrapurple/PurpleExplorer](https://github.com/telstrapurple/PurpleExplorer) - cross-platform Azure Service Bus explorer (Windows, MacOS, Linux)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
@@ -2218,13 +2329,27 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide) - An in-depth Guide for getting started with the Windows Subsystem for Linux!
-- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible curl binaries for Linux, macOS and Windows
+- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible, static, curl binaries for Linux, macOS and Windows
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 
 ## llm 
 
-- [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, da
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+- [kbeaugrand/SemanticKernel.Agents.DatabaseAgent](https://github.com/kbeaugrand/SemanticKernel.Agents.DatabaseAgent) - Powerful tool designed to generate SQL queries from natural language (NL2SQL) using Microsoft’s Semantic Kernel framework. This project aims to bridge the gap between human-readable queries and SQL, e
+- [Azure-Samples/aspire-semantic-kernel-creative-writer](https://github.com/Azure-Samples/aspire-semantic-kernel-creative-writer) - A creative writing multi-agent solution to help users write articles using Aspire and Semantic Kernel
+- [typper-io/ai-code-sandbox](https://github.com/typper-io/ai-code-sandbox) - Secure Python sandbox for AI/ML code execution using Docker. Run LLM outputs safely.
+- [Azure-Samples/llm-agent-ops-toolkit-sk](https://github.com/Azure-Samples/llm-agent-ops-toolkit-sk) - The LLMAgentOps Toolkit is a repository that provides a foundational structure for building LLM Agent-based applications using the Semantic Kernel. It serves as a starting point for data scientists an
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
+- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digita
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -2234,15 +2359,15 @@
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm) - A platform accelerating delivery of secure, trustworthy enterprise copilots.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
 - [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.
 - [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) - SQL Server connector for Semantic Kernel plugin and Kernel Memory
@@ -2262,12 +2387,13 @@
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 
 ## localization 
 
+- [Azure/co-op-translator](https://github.com/Azure/co-op-translator) - Easily automate the translation of your documentation into multiple languages, powered by Azure AI Services
 - [damienbod/IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate) - An ASP.NET Core 6.0 IdentityServer4 Identity Bootstrap 4 template with localization
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
@@ -2275,16 +2401,24 @@
 
 - [nemiro-net/nemiro.oauth](https://github.com/nemiro-net/nemiro.oauth) - Nemiro.OAuth is a class library for authorization via OAuth protocol in .NET Framework
 
+## low-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+
 ## mac 
 
 - [telstrapurple/PurpleExplorer](https://github.com/telstrapurple/PurpleExplorer) - cross-platform Azure Service Bus explorer (Windows, MacOS, Linux)
 
 ## machine-learning 
 
+- [kdcllc/SemanticKernel-MultiAgent-Copilot-Integration](https://github.com/kdcllc/SemanticKernel-MultiAgent-Copilot-Integration) - Empower your projects with Autonomous Multi-Agent Group Chats, seamlessly integrated with Copilot Agent Plugins using the cutting-edge Microsoft Semantic Kernel. Unlock the future of AI-driven collabo
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [arunpshankar/Agentic-Workflow-Patterns](https://github.com/arunpshankar/Agentic-Workflow-Patterns) - Repository demonstrating best practices and patterns for implementing agentic workflows in Python, featuring modular, scalable, and reusable design patterns for intelligent automation.
 - [microsoft/LLF-Bench](https://github.com/microsoft/LLF-Bench) - A benchmark for evaluating learning agents based on just language feedback
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [microsoft/genaiops-promptflow-template](https://github.com/microsoft/genaiops-promptflow-template) - GenAIOps with Prompt Flow is a "GenAIOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Manage
 - [pnp/syntex-samples](https://github.com/pnp/syntex-samples) - SharePoint Premium samples
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution acce
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2322,12 +2456,14 @@
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
-- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible curl binaries for Linux, macOS and Windows
+- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible, static, curl binaries for Linux, macOS and Windows
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [render-engine/render-engine](https://github.com/render-engine/render-engine) - Python Static Site Generator built with flexibility prioritized
 - [MyNihongo/MudBlazor.Markdown](https://github.com/MyNihongo/MudBlazor.Markdown) - Markdown component based on the MudBlazor environment
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2359,18 +2495,18 @@
 
 ## microsoft 
 
+- [Azure/modern-web-app-pattern-dotnet](https://github.com/Azure/modern-web-app-pattern-dotnet) - The Modern Web App Pattern is a set of objectives to help you apply an iterative change to modernize a cloud deployed monolith. This content builds on the Reliable Web App. This repo contains a refere
 - [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
 - [rohankishore/Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
 - [ucrengineer/semantic-aspire](https://github.com/ucrengineer/semantic-aspire) - semantic kernel examples with aspire endpoints.
 - [microsoft/vscode-cosmosdb](https://github.com/microsoft/vscode-cosmosdb) - Azure Databases extension for VS Code
-- [Azure/azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that reduces the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - co
+- [Azure/azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI (azd) provides developer-friendly commands that map to key workflow stages: code, build, deploy, monitor
 - [ADefWebserver/Blazor-Blogs](https://github.com/ADefWebserver/Blazor-Blogs) - Simple blogging application written in Microsoft Server Side Blazor
-- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [microsoft/PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
-- [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open Source documentation for the Azure Architecture Center on Microsoft Docs
+- [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
@@ -2381,7 +2517,7 @@
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [thangchung/magazine-website](https://github.com/thangchung/magazine-website) - :mouse: A magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied...
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [blogifierdotnet/Blogifier](https://github.com/blogifierdotnet/Blogifier) - Blogifier is an open-source publishing platform Written in ASP.NET and Blazor WebAssembly. With Blogifier make a personal blog or a website.
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
@@ -2399,7 +2535,7 @@
 ## mongodb 
 
 - [Azure-Samples/serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure
-- [rafaelfgx/DotNetCore](https://github.com/rafaelfgx/DotNetCore) - .NET 8 Nuget Packages.
+- [rafaelfgx/DotNetCore](https://github.com/rafaelfgx/DotNetCore) - .NET 9 Nuget Packages.
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [Azure/blackbelt-aks-hackfest](https://github.com/Azure/blackbelt-aks-hackfest) - Microsoft Intelligent Cloud Blackbelt Team :: Hackfest Repo
 - [vany0114/microservices-dotnetcore-docker-sf-k8s](https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s) - Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility 
@@ -2408,6 +2544,7 @@
 
 ## monitoring 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [microsoft/ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet) - ApplicationInsights-dotnet
@@ -2427,10 +2564,11 @@
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle
 
 ## natural-language-processing 
 
+- [kdcllc/SemanticKernel-MultiAgent-Copilot-Integration](https://github.com/kdcllc/SemanticKernel-MultiAgent-Copilot-Integration) - Empower your projects with Autonomous Multi-Agent Group Chats, seamlessly integrated with Copilot Agent Plugins using the cutting-edge Microsoft Semantic Kernel. Unlock the future of AI-driven collabo
 - [microsoft/LLF-Bench](https://github.com/microsoft/LLF-Bench) - A benchmark for evaluating learning agents based on just language feedback
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [curiosity-ai/catalyst](https://github.com/curiosity-ai/catalyst) - 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and 
@@ -2453,22 +2591,30 @@
 ## nextjs 
 
 - [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## nlp 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [curiosity-ai/catalyst](https://github.com/curiosity-ai/catalyst) - 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and 
 - [microsoft/Recognizers-Text](https://github.com/microsoft/Recognizers-Text) - Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Pa
+
+## no-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## node 
 
@@ -2484,11 +2630,11 @@
 
 ## nodejs 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Azure-Samples/azure-openai-rag-workshop](https://github.com/Azure-Samples/azure-openai-rag-workshop) - Create your own ChatGPT with Retrieval-Augmented-Generation workshop
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [denniszielke/container_demos](https://github.com/denniszielke/container_demos) - Demos for cloud native applications on Azure
@@ -2516,7 +2662,7 @@
 
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
 ## npm 
 
@@ -2535,8 +2681,12 @@
 
 ## open-source 
 
-- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [kdcllc/agentic-ai-github-stars](https://github.com/kdcllc/agentic-ai-github-stars) - Discover and leverage the power of AI to analyze and enhance GitHub repositories. This Python-based project offers seamless tools and insights tailored for developers and organizations looking to opti
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+- [Azure/co-op-translator](https://github.com/Azure/co-op-translator) - Easily automate the translation of your documentation into multiple languages, powered by Azure AI Services
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
@@ -2552,22 +2702,32 @@
 
 ## openai 
 
-- [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper,  and DALL-E
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [Azure-Samples/aspire-semantic-kernel-creative-writer](https://github.com/Azure-Samples/aspire-semantic-kernel-creative-writer) - A creative writing multi-agent solution to help users write articles using Aspire and Semantic Kernel
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [Azure-Samples/azure-ai-document-processing-samples](https://github.com/Azure-Samples/azure-ai-document-processing-samples) - A collection of samples demonstrating techniques for processing documents with Azure AI including AI Foundry, OpenAI, Document Intelligence, etc.
+- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
+- [betalgo/openai](https://github.com/betalgo/openai) - .NET library for the OpenAI service API by Betalgo Ranul
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure-Samples/llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) - This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
 - [Azure-Samples/openai-chat-app-entra-auth-builtin](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) - A simple chat application that integrates Microsoft Entra ID for user authentication. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
 - [Azure/azure-functions-openai-extension](https://github.com/Azure/azure-functions-openai-extension) - An extension that adds support for Azure OpenAI/ OpenAI bindings in Azure Functions for LLM (GPT-3.5-Turbo, GPT-4, etc)
+- [Azure-Samples/contoso-creative-writer](https://github.com/Azure-Samples/contoso-creative-writer) - A creative writing multi-agent solution to help users write articles.
 - [denniszielke/gen-ai-code-execution-agent](https://github.com/denniszielke/gen-ai-code-execution-agent) - Secure Dynamic Session Agent for AI generated code execution built using OpenAI, Langchain and Azure Container Apps
-- [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) - APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) - APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [openai/openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [dmatrix/genai-cookbook](https://github.com/dmatrix/genai-cookbook) - A mixture of Gen AI cookbook recipes for Gen AI applications.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.
 - [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) - SQL Server connector for Semantic Kernel plugin and Kernel Memory
 - [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azu
@@ -2578,6 +2738,7 @@
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
 - [marcominerva/KernelMemoryService](https://github.com/marcominerva/KernelMemoryService) - A lightweight implementation of Kernel Memory as a Service
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution acce
 - [microsoft/azure-openai-service-proxy](https://github.com/microsoft/azure-openai-service-proxy) - The Azure AI proxy service facilitates easy access to Azure AI resources for workshops and hackathons. It offers a Playground-like interface and supports Azure AI SDKs. Access is granted through a tim
 - [Azure-Samples/azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGP
 - [Azure-Samples/azure-openai-rag-workshop](https://github.com/Azure-Samples/azure-openai-rag-workshop) - Create your own ChatGPT with Retrieval-Augmented-Generation workshop
@@ -2585,7 +2746,7 @@
 - [Azure/openai-at-scale](https://github.com/Azure/openai-at-scale) - Simple ChatGPT UI application
 - [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples) - Azure OpenAI Samples is a collection of code samples illustrating how to use Azure Open AI in creating AI solution for various use cases across industries. This repository is mained by a community of 
 - [paolosalvatori/shared-azure-openai-tpm](https://github.com/paolosalvatori/shared-azure-openai-tpm) - This example shows how a multitenant service can distribute requests evenly among multiple Azure OpenAI Service instances and manage tokens per minute (TPM) for multiple tenants.
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most c
 - [anthonypuppo/sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
@@ -2607,22 +2768,100 @@
 
 ## others 
 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [kdcllc/sk-mcp-playwright](https://github.com/kdcllc/sk-mcp-playwright) - Model Context Protocol (MCP), Semantic Kernel and Playwright
+- [Azure-Samples/openai-mcp-agent-dotnet](https://github.com/Azure-Samples/openai-mcp-agent-dotnet) - Sample to create an AI Agent using OpenAI models with any MCP server
+- [BrennanConroy/mcpR](https://github.com/BrennanConroy/mcpR) - Demo MCP Server using SignalR
+- [microsoft/AutoPodcaster](https://github.com/microsoft/AutoPodcaster) - Sample app for podcast generation using Azure OpenAI
+- [davidfowl/aspire-ai-chat-demo](https://github.com/davidfowl/aspire-ai-chat-demo) - Aspire AI Chat is a full-stack chat sample that combines modern technologies to deliver a ChatGPT-like experience.
+- [microsoft/mcsmcp](https://github.com/microsoft/mcsmcp) - Lab for creating an MCP Server and using it in Microsoft Copilot Studio.
+- [Azure-Samples/semantic-kernel-advanced-usage](https://github.com/Azure-Samples/semantic-kernel-advanced-usage) - Collection of advanced usage scenarios for Semantic Kernel
+- [halter73/console-to-http-mcp-server](https://github.com/halter73/console-to-http-mcp-server) - Example of converting a stdio MCP server to HTTP using ModelContextProtocol.AspNetCore
+- [anthonychu/azure-container-apps-mcp-sample](https://github.com/anthonychu/azure-container-apps-mcp-sample) - 
+- [microsoft/Solution-Accelerators](https://github.com/microsoft/Solution-Accelerators) - 
+- [mplogas/sk-multiagent](https://github.com/mplogas/sk-multiagent) - The code / documentation for the Semantic Kernel Multi-Agent demo
+- [Azure/az-ai-generator](https://github.com/Azure/az-ai-generator) - AZ AI Generator: Opinionated Multi Agentic Application Generator. Start and deploy your application in minutes
+- [Azure-Samples/ai-multi-agent-presentation-builder](https://github.com/Azure-Samples/ai-multi-agent-presentation-builder) - 
+- [dapr/dapr-agents](https://github.com/dapr/dapr-agents) - Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry.
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [microsoft/azure-pipelines-terraform](https://github.com/microsoft/azure-pipelines-terraform) - Azure Pipelines tasks for installing Terraform and running Terraform commands in a build or release pipeline.
+- [microsoft/mssql-python](https://github.com/microsoft/mssql-python) - 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+- [cwiederspan/sqlconf-dab-aca-20250122](https://github.com/cwiederspan/sqlconf-dab-aca-20250122) - The project illustrates the ability to run a Data API Builder app from within Azure Container Apps.
+- [SteveSandersonMS/dotnet-ai-workshop](https://github.com/SteveSandersonMS/dotnet-ai-workshop) - 
+- [microsoftgraph/msgraph-sample-aspnet-core](https://github.com/microsoftgraph/msgraph-sample-aspnet-core) - This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from ASP.NET Core apps.
+- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
+- [serilog/serilog-sinks-map](https://github.com/serilog/serilog-sinks-map) - A Serilog sink wrapper that dispatches events based on a property value
+- [microsoft/AgenticCookBook](https://github.com/microsoft/AgenticCookBook) - The “Agentic Cookbook for Generative AI Agent usage” is a comprehensive guide designed to empower users with the knowledge and tools to effectively implement and utilize Generative AI Agents within th
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+- [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON 
+- [joslat/AzureSessionSKAgents](https://github.com/joslat/AzureSessionSKAgents) - Slides and demos from my Zurich Azure User Group session on Semantic Kernel and AI Agents
+- [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
+- [kdcllc/AI-DrivenDevEnv](https://github.com/kdcllc/AI-DrivenDevEnv) - Configure your AI-driven development environment with pre-defined settings, guidelines, and best practices for business applications.
+- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
+- [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [Azure-Samples/contoso-sales-azure-openai-assistants-api](https://github.com/Azure-Samples/contoso-sales-azure-openai-assistants-api) - 
+- [robch/book-of-ai](https://github.com/robch/book-of-ai) - The Book of AI helps you learn everything you need to know to get started w/ Azure AI services and the Azure AI CLI (`ai`).
+- [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
+- [microsoft/aitour-azure-openai-assistants](https://github.com/microsoft/aitour-azure-openai-assistants) - 
+- [Azure-Samples/get-started-with-ai-agents](https://github.com/Azure-Samples/get-started-with-ai-agents) - Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs
+- [transmitly/transmitly](https://github.com/transmitly/transmitly) - Transmitly is a vendor-agnostic library designed for seamlessly managing outgoing transactional communications across multiple channels, including email, SMS, Voice and Push
+- [microsoft/dstoolkit-mlops-v2](https://github.com/microsoft/dstoolkit-mlops-v2) - This repository contains the basic repository structure for machine learning projects based on Azure technologies (Azure ML and Azure DevOps).
+- [Azure/document-vector-pipeline](https://github.com/Azure/document-vector-pipeline) - Pipeline for ingesting documents (like pdfs and docx) into a searchable Azure Database for vector and hybrid searching.
+- [microsoft/document-generation-solution-accelerator](https://github.com/microsoft/document-generation-solution-accelerator) - Document Generation Solution Accelerator using Azure OpenAI Service and Azure AI Search.
+- [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
+- [GregorBiswanger/OllamaApiFacade](https://github.com/GregorBiswanger/OllamaApiFacade) - OllamaApiFacade is an open-source library for running a .NET backend as an Ollama API using Microsoft Semantic Kernel. It supports local language models services like LmStudio and allows seamless mess
+- [GregorBiswanger/SemanticFlow](https://github.com/GregorBiswanger/SemanticFlow) - State Manager for orchestrating AI-driven workflows with Microsoft Semantic Kernel. Simplify complex processes into modular, self-contained Activities.
+- [Azure-Samples/communication-services-dotnet-quickstarts](https://github.com/Azure-Samples/communication-services-dotnet-quickstarts) - Sample code for Azure Communication Services .Net quickstarts
+- [kbeaugrand/KernelMemory.Evaluation](https://github.com/kbeaugrand/KernelMemory.Evaluation) - This repository contains the code for the evaluation of the Knowledge Management (KM) system. The evaluation is based on the following metrics:
+- [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
+- [microsoft/Agents-for-net](https://github.com/microsoft/Agents-for-net) - This repository is for active development of the Microsoft 365 Agent SDK components for .NET
+- [Azure/aoai-apim](https://github.com/Azure/aoai-apim) - Scaling AOAI using APIM, PTUs and TPMs
+- [Azure-Samples/communication-services-python-quickstarts](https://github.com/Azure-Samples/communication-services-python-quickstarts) - Sample code for Azure Communication Services Python quickstarts
+- [Azure/gpt-rag-agentic](https://github.com/Azure/gpt-rag-agentic) - 
+- [unit-mesh/auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode) - AutoDev -  🧙‍the AI-powered coding wizard . Put the most loved AutoDev AI assistant into your VSCode, and have things done quickly
+- [Azure-Samples/multimodal-rag-code-execution](https://github.com/Azure-Samples/multimodal-rag-code-execution) - A multimodal Retrieval Augmented Generation with code execution capabilities. Process multiple complex documents with images, table, charts to distill insights or generate new documents.
+- [kbeaugrand/KernelMemory.StructRAG](https://github.com/kbeaugrand/KernelMemory.StructRAG) - Microsoft's Kernel Memory StructRAG implementation
+- [FritzAndFriends/TagzApp](https://github.com/FritzAndFriends/TagzApp) - An application that discovers content on social media for hashtags
+- [brandonstarxel/chunking_evaluation](https://github.com/brandonstarxel/chunking_evaluation) - This package, developed as part of our research detailed in the Chroma Technical Report, provides tools for text chunking and evaluation. It allows users to compare different chunking methods and incl
+- [microsoft/deepRAG](https://github.com/microsoft/deepRAG) - Uses a blend of experimental techniques to enhance LLM RAG resultsets.
+- [sphenry/multichannelnotificationapi-aca](https://github.com/sphenry/multichannelnotificationapi-aca) - 
+- [microsoft/ai-developer](https://github.com/microsoft/ai-developer) - This repository contains hackathon challenges for Semantic Kernel.
+- [Azure/gpt-rag-orchestrator](https://github.com/Azure/gpt-rag-orchestrator) - 
+- [geffzhang/awesome-semantickernel](https://github.com/geffzhang/awesome-semantickernel) - Awesome list of tools and projects with the awesome semantic kernel framework
+- [anthonychu/20240809-aca-async-http-api](https://github.com/anthonychu/20240809-aca-async-http-api) - 
+- [Azure-Samples/Design-and-evaluation-of-RAG-solutions](https://github.com/Azure-Samples/Design-and-evaluation-of-RAG-solutions) - This repo contains a comprehensive set of the recommendations to build a RAG (Retrieval-Augmented Generation) solution following best practices, along with tools and techniques for testing and evaluat
+- [Azure-Samples/openai-end-to-end-basic](https://github.com/Azure-Samples/openai-end-to-end-basic) - An Azure OpenAI end-to-end chat example used in the Azure Architecture Center.
+- [microsoft/Document-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator) - Solution accelerator built on Azure OpenAI Service and Azure AI Document Intelligence to process and extract summaries, entities, and metadata from unstructured, multi-modal documents and enable searc
+- [KeyserDSoze/Rystem.OpenAi](https://github.com/KeyserDSoze/Rystem.OpenAi) - .Net wrapper for OpenAI with Dependency injection integration, factory integration: you may inject more than one endpoint, azure integration: you may swap among openai endpoint and any azure endpoint 
+- [Azure-Samples/azure-openai-chat-baseline-landing-zone](https://github.com/Azure-Samples/azure-openai-chat-baseline-landing-zone) - A variation of the Azure OpenAI chat baseline, altered to be deployed specifically into an application landing zone.
+- [microsoft/micronaire](https://github.com/microsoft/micronaire) - A RAG evaluation pipeline for Semantic Kernel
+- [amazon-science/RAGChecker](https://github.com/amazon-science/RAGChecker) - RAGChecker: A Fine-grained Framework For Diagnosing RAG
+- [rajshah4/LLM-Evaluation](https://github.com/rajshah4/LLM-Evaluation) - Sample notebooks and prompts for LLM evaluation
+- [microsoft/TechExcel-Operationalize-LLMs-with-LLMOps-automation](https://github.com/microsoft/TechExcel-Operationalize-LLMs-with-LLMOps-automation) - 
+- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) - The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+- [Azure-Samples/Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) - A chat-based recommendation application that revolutionizes the culinary experience.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [pdevito3/HelloOllamaGeneration](https://github.com/pdevito3/HelloOllamaGeneration) - Playing around with ollama in .net
 - [microsoftgraph/msgraph-beta-sdk-dotnet](https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet) - The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)
-- [Azure-Samples/doc-intelligence-in-a-box](https://github.com/Azure-Samples/doc-intelligence-in-a-box) - 
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
 - [douglasware/AntRunner](https://github.com/douglasware/AntRunner) - .NET tools for creating and using Open AI and Azure Open AI Assistants
-- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
+- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [microsoft/RAG-Knowledge](https://github.com/microsoft/RAG-Knowledge) - 
-- [Azure-Samples/azure-ai-studio-secure-bicep](https://github.com/Azure-Samples/azure-ai-studio-secure-bicep) - This repository contains a collection of Bicep modules designed to deploy a secure Azure AI Studio environment with robust network and identity security restrictions.
+- [Azure-Samples/azure-ai-studio-secure-bicep](https://github.com/Azure-Samples/azure-ai-studio-secure-bicep) - This repository contains a collection of Bicep modules designed to deploy a secure Azure AI Foundry environment with robust network and identity security restrictions.
 - [anthonychu/aca-ai-agent](https://github.com/anthonychu/aca-ai-agent) - 
 - [LittleLittleCloud/AI-Agentic-Design-Patterns-with-AutoGen.Net](https://github.com/LittleLittleCloud/AI-Agentic-Design-Patterns-with-AutoGen.Net) - 
+- [metz-sh/simulacrum](https://github.com/metz-sh/simulacrum) - Code-playground to visualise complex engineering flows.
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [microsoft/copilot-camp](https://github.com/microsoft/copilot-camp) - Hands-on labs for extending Copilot for Microsoft 365 and building custom Copilotsop
+- [microsoft/copilot-camp](https://github.com/microsoft/copilot-camp) - Hands-on labs for extending Microsoft 365 Copilot and building custom engine agents
 - [CESARDELATORRE/ruby-rails-service-oriented-app](https://github.com/CESARDELATORRE/ruby-rails-service-oriented-app) - A POC of Ruby on Rails app with several services, deployed into Docker host and Kubernetes
 - [Azure-Samples/ARGUS](https://github.com/Azure-Samples/ARGUS) - Automated Retrieval and GPT Understanding System by utilizing Azure Document Intelligence in combination with GPT models.
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Azure-Samples/gen-ai-bot-in-a-box](https://github.com/Azure-Samples/gen-ai-bot-in-a-box) - This template deploys a Generative AI Virtual Assistant using Azure OpenAI and Bot Framework.
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [Azure-Samples/nlp-sql-in-a-box](https://github.com/Azure-Samples/nlp-sql-in-a-box) - 
@@ -2632,8 +2871,8 @@
 - [Azure/gpt-rag-ingestion](https://github.com/Azure/gpt-rag-ingestion) - 
 - [myquay/MultiTenant.AspNetCore](https://github.com/myquay/MultiTenant.AspNetCore) - Multi-tenancy support for ASP.NET Core 8
 - [kdcllc/CronScheduler.AspNetCore.Accelerator](https://github.com/kdcllc/CronScheduler.AspNetCore.Accelerator) - 
-- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their
-- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
+- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
+- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [Cloud-Jas/DurableMultiAgents](https://github.com/Cloud-Jas/DurableMultiAgents) - Durable Multi Agents is an attempt to make use of Azure Durable Functions with Semantic Kernel to build Multi-Agents workflows.
 - [ravendb/awesome-ravendb](https://github.com/ravendb/awesome-ravendb) - 
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
@@ -2642,7 +2881,6 @@
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [PlagueHO/5-things-you-can-do-with-github-copilot-demo](https://github.com/PlagueHO/5-things-you-can-do-with-github-copilot-demo) - This repository contains the files and demo steps for my 5 things you can do with GitHub Copilot demo
 - [microsoft/Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
-- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
 - [ilexistools/ChatCompletionAgentBased](https://github.com/ilexistools/ChatCompletionAgentBased) - A simple chat completion agent class for llms.
 - [Azure/azure-ai-cli](https://github.com/Azure/azure-ai-cli) - This repository is for active development of the Azure AI CLI. For consumers of the CLI, we suggest you check out The Book of AI at https://thebookof.ai
@@ -2652,9 +2890,10 @@
 - [Azure-Samples/YouTubeGPT](https://github.com/Azure-Samples/YouTubeGPT) - YouTubeGPT
 - [Azure/business-process-automation](https://github.com/Azure/business-process-automation) - Business process automation solution accelerator using Azure services
 - [kdcllc/awesome-stars](https://github.com/kdcllc/awesome-stars) - 
-- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [denisa-ms/azure-openai-code-samples](https://github.com/denisa-ms/azure-openai-code-samples) - 
 - [microsoft/llmops-workshop](https://github.com/microsoft/llmops-workshop) - Learn how to build solutions with Large Language Models.
+- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [Azure-Samples/llama-index-python](https://github.com/Azure-Samples/llama-index-python) - This sample shows how to quickly get started with LlamaIndex.ai on Azure🚀
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -2666,13 +2905,11 @@
 - [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models
 - [Azure/enterprise-azureai](https://github.com/Azure/enterprise-azureai) - Unleash the power of Azure AI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI.
 - [gbaeke/semantic-kernel-demo](https://github.com/gbaeke/semantic-kernel-demo) - 
-- [Azure-Samples/contoso-creative-writer](https://github.com/Azure-Samples/contoso-creative-writer) - A creative writing multi-agent solution to help users write articles.
 - [microsoft/roosterjs](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.
 - [Azure-Samples/container-apps-dynamic-sessions-samples](https://github.com/Azure-Samples/container-apps-dynamic-sessions-samples) - Samples for Azure Container Apps dynamic sessions
 - [anthonychu/20240528-sessions-csv](https://github.com/anthonychu/20240528-sessions-csv) - 
 - [microsoft/ai-chat-protocol](https://github.com/microsoft/ai-chat-protocol) - A library + API spec for easily streaming generative AI output to your chat applications.
-- [bradygaster/HelloAspire](https://github.com/bradygaster/HelloAspire) - Simple Aspire Starter app for me to experiment on using Azure DevOps and GitHub Actions
-- [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) availab
+- [microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook) - This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language 
 - [akade/Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 - [timoklimmer/powerproxy-aoai](https://github.com/timoklimmer/powerproxy-aoai) - Monitors and processes traffic to and from Azure OpenAI endpoints.
 - [sethjuarez/noyer](https://github.com/sethjuarez/noyer) - Your AI Demand Gen Specialist
@@ -2689,6 +2926,7 @@
 - [adamhathcock/sharpcompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
 - [microsoft/Olive](https://github.com/microsoft/Olive) - Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.
 - [jongio/local-managed-identity](https://github.com/jongio/local-managed-identity) - 
+- [kdcllc/tokenflow](https://github.com/kdcllc/tokenflow) - Effortlessly capture and manage access tokens with Azure Device Code integration. Simplify authentication workflows in Python with TokenFlow's seamless and secure token handling. Ideal for developers 
 - [pamelafox/openai-messages-token-helper](https://github.com/pamelafox/openai-messages-token-helper) - A utility library for dealing with token counting for messages sent to an LLM (currently OpenAI models only)
 - [pwa-builder/pwa-phi3](https://github.com/pwa-builder/pwa-phi3) - Simple chat PWA that uses phi3 running locally on the device
 - [Azure-Samples/azure-cli-samples](https://github.com/Azure-Samples/azure-cli-samples) - Contains Azure CLI scripts samples used for documentation at https://docs.microsoft.com
@@ -2702,9 +2940,7 @@
 - [Azure-Samples/summarization-openai-csharp-prompty](https://github.com/Azure-Samples/summarization-openai-csharp-prompty) - This solution converts speech to text and then processes and summarizes the text based on the prompt scenario.
 - [Azure/aihub](https://github.com/Azure/aihub) - AI Hub Executive Demo HandsOn
 - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
-- [Azure-Samples/agent-python-openai-prompty-langchain](https://github.com/Azure-Samples/agent-python-openai-prompty-langchain) - Function calling for vector database lookup based on user question
 - [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure services
-- [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
 - [Azure/container-apps-deploy-action](https://github.com/Azure/container-apps-deploy-action) - GitHub Action for building and deploying Azure Container Apps
 - [Azure-Samples/Build2024-eShopLite-Aspire-Lab](https://github.com/Azure-Samples/Build2024-eShopLite-Aspire-Lab) - A step-by-step lab of adding Aspire to the eShopLite application
 - [GaryHopeMS/MSBuildLab330](https://github.com/GaryHopeMS/MSBuildLab330) - Final Dev and Deployment Repo for MS Build Lab 330
@@ -2717,7 +2953,7 @@
 - [bibletime/bibletime](https://github.com/bibletime/bibletime) - :book: BibleTime is a powerful cross platform Bible study tool.
 - [simonjj/serve-phi2](https://github.com/simonjj/serve-phi2) - A very simple Phi-2 Server and UI
 - [lakshmanok/lakblogs](https://github.com/lakshmanok/lakblogs) - Code and notebooks associated with my blogposts
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [cwoodruff/book-network-programming-csharp](https://github.com/cwoodruff/book-network-programming-csharp) - 
 - [Azure-Samples/eShop-AI-Lab-Build2024](https://github.com/Azure-Samples/eShop-AI-Lab-Build2024) - To gain access, please finish setting up this repository now at:
 - [filipw/2024-azure-bootcamp-demos](https://github.com/filipw/2024-azure-bootcamp-demos) - 
@@ -2739,6 +2975,7 @@
 - [dotnet-smartcomponents/smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end-to-end AI features for .NET apps
 - [ThrottlingTroll/ThrottlingTroll](https://github.com/ThrottlingTroll/ThrottlingTroll) - Rate limiting/throttling/circuit-breaking middleware for ASP.NET Core and Azure Functions. Supports Redis and many other distributed counter stores.
 - [Azure-Samples/azureai-assistant-tool](https://github.com/Azure-Samples/azureai-assistant-tool) - The Azure AI Assistant Tool is experimental Python application and middleware designed to simplify the development, experimentation, testing, and debugging of OpenAI assistants.
+- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [cyclotron-azure/url-shortener](https://github.com/cyclotron-azure/url-shortener) - Cyclotron.com URL Shortener
 - [jeffprosise/SDD-2023](https://github.com/jeffprosise/SDD-2023) - Repository for samples presented at SDD 2023
 - [microsoft/CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - 
@@ -2757,11 +2994,10 @@
 - [oribarilan/fliq](https://github.com/oribarilan/fliq) - 
 - [MoaidHathot/Custom-Copilot-Demo](https://github.com/MoaidHathot/Custom-Copilot-Demo) - Demo code for the Custom Copilot Demo
 - [ardalis/MongoDbDotNetHelloWorld](https://github.com/ardalis/MongoDbDotNetHelloWorld) - Demonstrating how to get started with MongoDB as quickly as possible in dotnet
-- [Azure-Samples/contoso-chat](https://github.com/Azure-Samples/contoso-chat) - This sample has the full End2End process of creating RAG application with Prompty and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub
+- [Azure-Samples/contoso-chat](https://github.com/Azure-Samples/contoso-chat) - This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT-4 LLM application code, evaluations, deployment automation with AZD CLI, GitHub 
 - [Azure-Samples/contoso-web](https://github.com/Azure-Samples/contoso-web) - Contoso Outdoors Company web application shown at Microsoft Ignite
 - [microsoft/Form-Recognizer-Toolkit](https://github.com/microsoft/Form-Recognizer-Toolkit) - Form Recognizer Toolkit (FRTK) provides a set of components and features to accelerate development based on Form Recognizer service.
 - [AshwinPrasanth/ZSAMBOT-STO](https://github.com/AshwinPrasanth/ZSAMBOT-STO) - Revolutionary AI chat app for education
-- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) - 
 - [Azure/semantic-kernel-bot-in-a-box](https://github.com/Azure/semantic-kernel-bot-in-a-box) - Extensible Semantic Kernel Bot Solution Accelerator
 - [microsoft/i-Code](https://github.com/microsoft/i-Code) - 
 - [NikhilSehgal123/Azure-OpenAI-SQL](https://github.com/NikhilSehgal123/Azure-OpenAI-SQL) - 
@@ -2807,7 +3043,7 @@
 - [kdcllc/sample-app-aoai-chatGPT](https://github.com/kdcllc/sample-app-aoai-chatGPT) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
 - [Azure-Samples/semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat) - Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [microsoft/project-oagents](https://github.com/microsoft/project-oagents) - Experimental AI Agents Framework
 - [KristofferStrube/Blazor.GraphEditor](https://github.com/KristofferStrube/Blazor.GraphEditor) - A simple graph editor for Blazor.
 - [dotnet/project-system-tools](https://github.com/dotnet/project-system-tools) - Tools for working with the C#/VB/F# project system.
@@ -2835,7 +3071,7 @@
 - [keeganstreet/specificity](https://github.com/keeganstreet/specificity) - A JavaScript module for calculating the specificity of CSS selectors
 - [KittyGiraudel/selectors-explained](https://github.com/KittyGiraudel/selectors-explained) - A CSS selector to plain English translator.
 - [Andy-set-studio/modern-css-reset](https://github.com/Andy-set-studio/modern-css-reset) - A bare-bones CSS reset for modern web development.
-- [ravendb/ravendb-python-client](https://github.com/ravendb/ravendb-python-client) - This is the official python client for RavenDB document database
+- [ravendb/ravendb-python-client](https://github.com/ravendb/ravendb-python-client) - Official Python client for RavenDB 🐦‍⬛🐍
 - [Azure/ADX-in-a-Day](https://github.com/Azure/ADX-in-a-Day) - Hands on experience on Azure Data Explorer and Kusto Query Languages(KQL)
 - [madskristensen/ImagePreview](https://github.com/madskristensen/ImagePreview) - 
 - [WebFormsCore/WebFormsCore](https://github.com/WebFormsCore/WebFormsCore) - 
@@ -2862,6 +3098,7 @@
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [kdcllc/privatemobile-pixel3a-ubuntutouch-conversion](https://github.com/kdcllc/privatemobile-pixel3a-ubuntutouch-conversion) - Empowering Privacy and Independence on Pixel 3a with Ubuntu Touch
+- [kdcllc/windows11-to-linux-dev-journey](https://github.com/kdcllc/windows11-to-linux-dev-journey) - Explore the journey of transitioning from Windows 11 to Linux as a full-stack developer. This repository documents tools, workflows, and tips for a seamless migration, covering everything from Linux s
 - [filipw/2023-dotnetday-demos](https://github.com/filipw/2023-dotnetday-demos) - 
 - [dotnet/deployment-tools](https://github.com/dotnet/deployment-tools) - This repo contains the code to build the .NET deployment tools and installers for all supported platforms, as well as the sources to .NET deployment tools.
 - [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) - Roslyn analyzers for xUnit.net (please open issues in https://github.com/xunit/xunit)
@@ -2869,7 +3106,7 @@
 - [Azure-Samples/Orleans-Cluster-on-Azure-App-Service](https://github.com/Azure-Samples/Orleans-Cluster-on-Azure-App-Service) - Sample application demonstrating a multiple-silo Orleans cluster running in Azure App Service.
 - [timheuer/openai-plugin-aspnetcore](https://github.com/timheuer/openai-plugin-aspnetcore) - A sample OpenAI plugin using ASP.NET Core API
 - [meziantou/Meziantou.Polyfill](https://github.com/meziantou/Meziantou.Polyfill) - 
-- [dotnet-project-file-analyzers/dotnet-project-file-analyzers](https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers) - Contains rolsyn static code analyzers to analyze .NET project files.
+- [dotnet-project-file-analyzers/dotnet-project-file-analyzers](https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers) - Contains roslyn static code analyzers to analyze .NET project files.
 - [markbmullins/Shopify-React-Tutorial](https://github.com/markbmullins/Shopify-React-Tutorial) - Tutorial for building shopify apps with React/Node/GraphQL
 - [danroth27/Net8BlazorServer](https://github.com/danroth27/Net8BlazorServer) - Blazor Server app with .NET 8
 - [paolosalvatori/container-apps-openai](https://github.com/paolosalvatori/container-apps-openai) - This sample shows how to create two Azure Container Apps that use OpenAI, LangChain, ChromaDB, and Chainlit using Terraform.
@@ -2961,13 +3198,11 @@
 - [tmds/build-image](https://github.com/tmds/build-image) - Containerize .NET apps without writing Dockerfiles.
 - [jsakamoto/Toolbelt.Blazor.PWA.Updater](https://github.com/jsakamoto/Toolbelt.Blazor.PWA.Updater) - Provide "Update Now" UI and feature to your Blazor PWA that appears when the next version of one is available.
 - [DamianEdwards/TrimmedTodo](https://github.com/DamianEdwards/TrimmedTodo) - An app to try out trimming stuff in .NET 7
-- [microsoft/turnstile](https://github.com/microsoft/turnstile) - Your SaaS app's friendly automated usher
 - [danielgerlag/conductor](https://github.com/danielgerlag/conductor) - Distributed workflow server
 - [SteveSandersonMS/GreenhouseMonitor](https://github.com/SteveSandersonMS/GreenhouseMonitor) - Sample application for ASP.NET Core on WASI
 - [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) - 
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [DapperLib/DapperAOT](https://github.com/DapperLib/DapperAOT) - Build time tools in the flavor of Dapper
-- [bradygaster/YARP-proxying-to-multiple-apps](https://github.com/bradygaster/YARP-proxying-to-multiple-apps) - Simple layout of a YARP proxy that sits atop 3 web apps. One of the apps responds at /, whilst the second & third sites respond via child routes.
 - [davidfowl/CommandAndControl](https://github.com/davidfowl/CommandAndControl) - A sample showing command and control using client results
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [fiercekittenz/BlazorTwitchBotExample](https://github.com/fiercekittenz/BlazorTwitchBotExample) - A simple example of using Blazor Web Assembly to create a Twitch Bot.
@@ -3058,7 +3293,7 @@
 - [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet) - A full-stack .NET 6 Microservices build on Minimal APIs and C# 10
 - [thomaslevesque/Linq.Extras](https://github.com/thomaslevesque/Linq.Extras) - A set of extension methods to complement the ones from System.Linq.Enumerable
 - [SteveSandersonMS/BlazeOrbital](https://github.com/SteveSandersonMS/BlazeOrbital) - Sample application for Blazor WebAssembly on .NET 6
-- [kdcllc/Bet.Notifications](https://github.com/kdcllc/Bet.Notifications) - DotNetCore Notification library to send emails, sms messages
+- [kdcllc/Bet.Notifications](https://github.com/kdcllc/Bet.Notifications) - Bet.Notifications is an open-source .NET Core library that simplifies email and SMS notifications for modern applications. With seamless integration and robust functionality, it’s perfect for develope
 - [sayedihashimi/sayedha.templates](https://github.com/sayedihashimi/sayedha.templates) - 
 - [alansav/phone_number](https://github.com/alansav/phone_number) - 
 - [alexreich/RulesEngineEditor](https://github.com/alexreich/RulesEngineEditor) - Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop
@@ -3129,7 +3364,7 @@
 - [KristofferStrube/Blazor.SVGEditor](https://github.com/KristofferStrube/Blazor.SVGEditor) - A basic SVG editor written in Blazor.
 - [serilog/serilog-sinks-file](https://github.com/serilog/serilog-sinks-file) - Write Serilog events to files in text and JSON formats, optionally rolling on time or size
 - [allengrant/shopify_openapi](https://github.com/allengrant/shopify_openapi) - Shopify OpenAPI Spec v3
-- [brminnick/AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
+- [TheCodeTraveler/AsyncAwaitBestPractices](https://github.com/TheCodeTraveler/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
 - [vitobotta/docker-tunnel](https://github.com/vitobotta/docker-tunnel) - A Docker-based self hosted alternative to Ngrok
 - [davidortinau/WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne) - 
 - [curizmo/covinclient](https://github.com/curizmo/covinclient) - 
@@ -3148,7 +3383,7 @@
 - [bradygaster/Contoso.Monitoring](https://github.com/bradygaster/Contoso.Monitoring) - 
 - [Azure/aks-gbb-officehours](https://github.com/Azure/aks-gbb-officehours) - Used to host information regarding the GBB-hosted, bi-weekly Public AKS Office Hours
 - [liupeirong/MLOpsManufacturing](https://github.com/liupeirong/MLOpsManufacturing) - Demonstrate samples and good engineering practice for operationalizing machine learning solutions.
-- [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
+- [DuendeArchive/IdentityModel](https://github.com/DuendeArchive/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
 - [rsdn/MSBuildProjectBrowser](https://github.com/rsdn/MSBuildProjectBrowser) - 
 - [CloudNativeGBB/webinars](https://github.com/CloudNativeGBB/webinars) - 
 - [Azure-Samples/azure-search-javascript-samples](https://github.com/Azure-Samples/azure-search-javascript-samples) - Azure Search Javascript sample code
@@ -3166,7 +3401,6 @@
 - [ayende/phonebook](https://github.com/ayende/phonebook) - 
 - [sebastienros/parlot](https://github.com/sebastienros/parlot) - Fast and lightweight parser creation tools
 - [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
-- [IdentityModel/IdentityModel.AspNetCore](https://github.com/IdentityModel/IdentityModel.AspNetCore) - ASP.NET Core helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
 - [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [jonhilt/Razor-Pages-Demos](https://github.com/jonhilt/Razor-Pages-Demos) - 
 - [dapr/community](https://github.com/dapr/community) - Governance and community material for Dapr and its open source sub-projects
@@ -3188,7 +3422,7 @@
 - [bartczernicki/DemoLuceneBlazor](https://github.com/bartczernicki/DemoLuceneBlazor) - Demo of creating a Lucene.NET index and using it inside Blazor WebAssembly (all in the web browser, no server-side components required)!
 - [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer skills
 - [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
-- [Eastrall/EntityFrameworkCore.DataEncryption](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption) - A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
+- [SoftFluent/EntityFrameworkCore.DataEncryption](https://github.com/SoftFluent/EntityFrameworkCore.DataEncryption) - A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
 - [enricobencivenga/ProductElasticSearch](https://github.com/enricobencivenga/ProductElasticSearch) - 
 - [dmitry-pavlov/openapi-connected-service](https://github.com/dmitry-pavlov/openapi-connected-service) - Visual Studio extension to generate OpenAPI (Swagger) web service reference.
 - [QubesOS/qubes-secpack](https://github.com/QubesOS/qubes-secpack) - Qubes Security Pack
@@ -3196,7 +3430,6 @@
 - [rmja/Cloudspool](https://github.com/rmja/Cloudspool) - 
 - [dotnet-architecture/eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET distributed application based on eShopOnContainers, powered by Dapr.
 - [smithy-lang/smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
-- [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - ASP.NET Core Razor Pages implementation of inventory order management. Warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more
 - [kdcllc/Bet.Extensions.Templating](https://github.com/kdcllc/Bet.Extensions.Templating) - Bet.Extensions.Templating repo for most common projects templates for DotNetCore
 - [danroth27/BlazorNet5Demo](https://github.com/danroth27/BlazorNet5Demo) - Blazor in .NET 5 demo
 - [Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) - Microsoft Azure code samples.
@@ -3207,8 +3440,8 @@
 - [jongio/azidext](https://github.com/jongio/azidext) - Extensions to the Azure.Identity libraries
 - [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [henkmollema/Dommel](https://github.com/henkmollema/Dommel) - CRUD operations with Dapper made simple.
-- [toptensoftware/markdowndeep](https://github.com/toptensoftware/markdowndeep) - Open-source implementation of Markdown for C# and Javascript
 - [elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
+- [toptensoftware/markdowndeep](https://github.com/toptensoftware/markdowndeep) - Open-source implementation of Markdown for C# and Javascript
 - [rywem/BetterProgramming](https://github.com/rywem/BetterProgramming) - A catch-all repository for improving software engineering knowledge and skills.
 - [snakorse/t4](https://github.com/snakorse/t4) - T4 text templating engine
 - [ericdc1/Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD) - Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
@@ -3219,7 +3452,7 @@
 - [maartenba/BookSomeSpace](https://github.com/maartenba/BookSomeSpace) - BookSomeSpace helps you schedule meetings. It eliminates back and forth emails - people can book straight into your calendar!
 - [anthonychu/functions-puppeteer-sharp-razor](https://github.com/anthonychu/functions-puppeteer-sharp-razor) - 
 - [ayende/ravendb-workshop-oct-2020](https://github.com/ayende/ravendb-workshop-oct-2020) - Code for RavenDB Workshop in NDC October 2020
-- [crpietschmann/VirtualRouter](https://github.com/crpietschmann/VirtualRouter) - Original, open source Wifi Hotspot for Windows 7, 8.x and Server 2012 and newer
+- [crpietschmann/VirtualRouter](https://github.com/crpietschmann/VirtualRouter) - The original, open source Wifi Hotspot for Windows 7, 8.x and Server 2012 and newer! Over 10 Million Downloads!
 - [DanWahlin/TailwindTraders-M365](https://github.com/DanWahlin/TailwindTraders-M365) - LOB demo app for Teams/M365
 - [thomaslevesque/Extensions.Caching.Extras](https://github.com/thomaslevesque/Extensions.Caching.Extras) - Adds features to Microsoft.Extensions.Caching such as partitioning and eviction
 - [NWebsec/NWebsec](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET
@@ -3253,7 +3486,7 @@
 - [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
 - [virtual-kubelet/azure-aci](https://github.com/virtual-kubelet/azure-aci) - Things related to Azure Container Instances for Virtual Kubelet
 - [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
-- [bleroy/lunr-core](https://github.com/bleroy/lunr-core) - A port of LUNR.js to .NET Core
+- [bleroy/lunr-core](https://github.com/bleroy/lunr-core) - Lunr-core is a small, full text search library for use in small applications. It's a .NET port of LUNR.js.
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [Ercenk/ContosoAMPBasic](https://github.com/Ercenk/ContosoAMPBasic) - Sample Azure Marketplace SaaS integration solution with the most basic setup
 - [JimBobSquarePants/GithubReleaseNotesGenerator](https://github.com/JimBobSquarePants/GithubReleaseNotesGenerator) - 
@@ -3274,6 +3507,7 @@
 - [thinktecture/docker-webinar](https://github.com/thinktecture/docker-webinar) - Sample Code from the Docker Webinar
 - [RickStrahl/Westwind.AspnetCore.LiveReload](https://github.com/RickStrahl/Westwind.AspnetCore.LiveReload) - ASP.NET Core Live Reload Middleware that monitors file changes in your project and automatically reloads the browser's active page
 - [johnazariah/orleans-architecture-patterns-code](https://github.com/johnazariah/orleans-architecture-patterns-code) - Code for the Orleans Architecture Patterns Talk
+- [kdcllc/AppAuthentication](https://github.com/kdcllc/AppAuthentication) - Streamline access to Azure resources in your local Docker containers with AppAuthentication, a powerful .NET Core CLI tool. Leverage Microsoft Managed Identity for secure, hassle-free authentication. 
 - [Xabaril/Esquio](https://github.com/Xabaril/Esquio) - Esquio is a Feature Toggle Library for .NET Developers.
 - [dotnet/SyndicationFeedReaderWriter](https://github.com/dotnet/SyndicationFeedReaderWriter) - A .NET Standard Library for reading and writing RSS 2.0 and ATOM 1.0 syndication feeds
 - [microsoft/FeatureManagement-Dotnet](https://github.com/microsoft/FeatureManagement-Dotnet) - Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patt
@@ -3312,7 +3546,6 @@
 - [jeffprosise/Machine-Learning](https://github.com/jeffprosise/Machine-Learning) - Samples demonstrating how to use Scikit-learn to build machine-learning models
 - [Azure/terraform](https://github.com/Azure/terraform) - Source code for the Azure Marketplace Terraform development VM package.
 - [Turnoutt/terraform-modules](https://github.com/Turnoutt/terraform-modules) - 
-- [Azure/arc-k8s-demo](https://github.com/Azure/arc-k8s-demo) - Artifacts for Arc For Kubernetes Demo
 - [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 - [s-ueno/Dapper.Aggregator](https://github.com/s-ueno/Dapper.Aggregator) - entity-relationship with Dapper
 - [ryanelian/FluentValidation.Blazor](https://github.com/ryanelian/FluentValidation.Blazor) - Fluent Validation-powered Blazor component for validating standard &lt;EditForm&gt; :milky_way: :white_check_mark:
@@ -3340,7 +3573,7 @@
 - [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
 - [dzsquared/sqlops-firstresponderkit](https://github.com/dzsquared/sqlops-firstresponderkit) - Install and Run the First Responder Kit Scripts from Azure Data Studio
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [alicommit-malp/roundrobin](https://github.com/alicommit-malp/roundrobin) - A simple implementation of round robin in c# with circular linked list
+- [alicommit-malp/roundrobin](https://github.com/alicommit-malp/roundrobin) - A simple thread safe implementation of round robin in c# with circular linked list
 - [alicommit-malp/JWTS](https://github.com/alicommit-malp/JWTS) - Json Web Token Secure
 - [alicommit-malp/com.appelinda.autoFuelQueue.nuget](https://github.com/alicommit-malp/com.appelinda.autoFuelQueue.nuget) - 
 - [dotnet-architecture/eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing) - Modernizing existing .NET Framework, hypothetically legacy backoffice eShop web apps (traditional ASP.NET WebForms and MVC) with Windows Containers and Azure Cloud
@@ -3358,7 +3591,7 @@
 - [Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps](https://github.com/Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps) - This repository contains code samples related with clean software architecture and DevSecOps.
 - [developit/web-worker](https://github.com/developit/web-worker) - Consistent Web Workers in browser and Node.
 - [microsoft/SubscribableEvent](https://github.com/microsoft/SubscribableEvent) - A simple strongly-typed pub/sub/fire eventing system.
-- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [dotnet/yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [aspnet/AspNetWebFormsDependencyInjection](https://github.com/aspnet/AspNetWebFormsDependencyInjection) - Dependency injection support for ASP.NET Web Forms 4.x
 - [tyiannak/color_your_music_mood](https://github.com/tyiannak/color_your_music_mood) - A realtime demo for generating colors based on musical moods
 - [danesparza/MailChimp.NET](https://github.com/danesparza/MailChimp.NET) - :envelope: .NET Wrapper for the MailChimp v2.0 API
@@ -3382,7 +3615,7 @@
 - [davidfowl/TestingDiagnostics](https://github.com/davidfowl/TestingDiagnostics) - Repository to test out various test failure and diagnostic scenarios
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the
 - [NatMarchand/WebFormsInjection-MsDi](https://github.com/NatMarchand/WebFormsInjection-MsDi) - 
-- [ZeeLyn/Dapper.Extensions](https://github.com/ZeeLyn/Dapper.Extensions) - A dapper extension library. Support MySql,SQL Server,PostgreSql,Oracle  and ODBC.
+- [ZeeLyn/Dapper.Extensions](https://github.com/ZeeLyn/Dapper.Extensions) - A dapper extension library. Support MySql,SQL Server,PostgreSql,Oracle,SQLite and ODBC.
 - [martinjw/Holiday](https://github.com/martinjw/Holiday) - Calculate Public Holidays
 - [dotnet/xdt](https://github.com/dotnet/xdt) - XDT is Microsoft's Xml Document Transformation library.
 - [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the s
@@ -3502,13 +3735,12 @@
 - [SteveSandersonMS/BlazorUnitTestingPrototype](https://github.com/SteveSandersonMS/BlazorUnitTestingPrototype) - 
 - [SciSharp/SciSharpCube](https://github.com/SciSharp/SciSharpCube) - Quickly experience all the latest features of SciSharp Machine Learning tools in docker container.
 - [ramon-tomas-c/gRPC-Workshop](https://github.com/ramon-tomas-c/gRPC-Workshop) - 
-- [kdcllc/CronScheduler.AspNetCore](https://github.com/kdcllc/CronScheduler.AspNetCore) - Cron Jobs Scheduler for Asp.Net Core 2.x-8.x or .Net Core 2.x-8.x Self-hosted
+- [kdcllc/CronScheduler.AspNetCore](https://github.com/kdcllc/CronScheduler.AspNetCore) - A powerful Cron Jobs Scheduler for ASP.NET Core and .NET Core (2.x-8.x). Simplify the management of self-hosted and ASP.NET Core-based scheduled tasks with a flexible and reliable solution. Designed f
 - [stevejgordon/MemoryPoolSample](https://github.com/stevejgordon/MemoryPoolSample) - 
 - [stevejgordon/ProgNetWorkshop2019](https://github.com/stevejgordon/ProgNetWorkshop2019) - This is the content for a 3 hour workshop run at ProgNET 2019.
 - [tdykstra/SystemTextJsonSample](https://github.com/tdykstra/SystemTextJsonSample) - 
 - [stevejgordon/StringCreateDemo](https://github.com/stevejgordon/StringCreateDemo) - 
 - [stavroskasidis/BlazorWithIdentity](https://github.com/stavroskasidis/BlazorWithIdentity) - A project template for a blazor hosted app using cookie based authentication with ef core identity.
-- [IdentityServer/IdentityServer4.Quickstart.UI](https://github.com/IdentityServer/IdentityServer4.Quickstart.UI) - Starter UI for in-memory IdentityServer4
 - [mayuki/Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
 - [laurentkempe/grpcAsyncStream](https://github.com/laurentkempe/grpcAsyncStream) - .NET Core 3.0 gRPC Client and Server application showing asynchronous capabilities of gRPC and how to handle it in C# 8 Async stream
 - [andreluizsecco/AspNetCore.BookStore](https://github.com/andreluizsecco/AspNetCore.BookStore) - ASP.NET Core application using Command Pattern and Repository Pattern
@@ -3539,7 +3771,7 @@
 - [canton7/Stylet](https://github.com/canton7/Stylet) - A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.
 - [microsoft/AISchoolTutorials](https://github.com/microsoft/AISchoolTutorials) - This repository contains the developer tutorials and samples to demonstrate how to create the experiments contained on AI Lab.
 - [sparkeh9/CoreFTP](https://github.com/sparkeh9/CoreFTP) - An FTP library written in C# with no external dependencies
-- [damienbod/AspNetCoreIdentityFido2Mfa](https://github.com/damienbod/AspNetCoreIdentityFido2Mfa) - ASP.NET Core (.NET 8) Identity with FIDO2 WebAuthn MFA, passwordless
+- [damienbod/AspNetCoreIdentityFido2Mfa](https://github.com/damienbod/AspNetCoreIdentityFido2Mfa) - ASP.NET Core (.NET 9) Identity with FIDO2 WebAuthn MFA and passwordless passkeys
 - [SciSharp/Matplotlib.Net](https://github.com/SciSharp/Matplotlib.Net) - .NET wrapper for the Python plotting library Matplotlib
 - [dotnet/arcade](https://github.com/dotnet/arcade) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
 - [mingaliu/DocumentDBStudio](https://github.com/mingaliu/DocumentDBStudio) - A client management/viewer for Microsoft Azure DocumentDB
@@ -3573,7 +3805,6 @@
 - [stevejgordon/OptionsUnitTestingSample](https://github.com/stevejgordon/OptionsUnitTestingSample) - 
 - [samcragg/sharpkml](https://github.com/samcragg/sharpkml) - SharpKML is an implementation of the Open Geospatial Consortium (OGC) KML 2.2 standard developed in C#, able to read/write both KML files and KMZ files.
 - [chrissainty/AuthenticationWithClientSideBlazor](https://github.com/chrissainty/AuthenticationWithClientSideBlazor) - Companion code sample for my blog post - Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity
-- [CosmosDB/labs](https://github.com/CosmosDB/labs) - 
 - [dotnet/diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [CloudNimble/ElectronNET.Blazor](https://github.com/CloudNimble/ElectronNET.Blazor) - A library to help Blazor and Electron.NET work better together. (Archived)
 - [alfusinigoj/scoped_logging_with_serilog](https://github.com/alfusinigoj/scoped_logging_with_serilog) - Sample application lets you understand how to integrate serilog with Microsoft ilogger, with scoped context
@@ -3619,8 +3850,8 @@
 - [serilog/serilog-enrichers-thread](https://github.com/serilog/serilog-enrichers-thread) - Enrich Serilog events with properties from the current thread.
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [danielmarbach/Async.Netcore](https://github.com/danielmarbach/Async.Netcore) - 
-- [KirillOsenkov/SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers http://referencesource.microsoft.com and http://sourceroslyn.io
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [KirillOsenkov/SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers https://source.dot.net, https://referencesource.microsoft.com and https://sourceroslyn.io
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
 - [Azure/azure-cosmos-dotnet-v2](https://github.com/Azure/azure-cosmos-dotnet-v2) - Contains samples and utilities relating to the Azure Cosmos DB .NET SDK
 - [CESARDELATORRE/TensorFlowImageClassificationWebApp](https://github.com/CESARDELATORRE/TensorFlowImageClassificationWebApp) - Web App (Razor) using WebAPI methods that run a TensorFlow model (.pb - Inception v3) with ML.NET API
@@ -3677,7 +3908,6 @@
 - [opencomputeproject/Project-Zipline](https://github.com/opencomputeproject/Project-Zipline) - Defines a lossless compressed data format that is independent of CPU type, operating system, file system, and character set, and is suitable for compression using the XP10 algorithm.
 - [mattfrear/Swashbuckle.Examples](https://github.com/mattfrear/Swashbuckle.Examples) - Adds the [SwaggerRequestExample] and [SwaggerResponseExample] attributes to Swashbuckle
 - [tc39/proposal-decorators](https://github.com/tc39/proposal-decorators) - Decorators for ES6 classes
-- [bradygaster/FigglatR](https://github.com/bradygaster/FigglatR) - ASP.NET Core Razor Components FiggleFont Banner Creator
 - [drewnoakes/figgle](https://github.com/drewnoakes/figgle) - ASCII banner generation for .NET
 - [SignalR/sample-StreamR](https://github.com/SignalR/sample-StreamR) - Sample demonstrating how to use SignalR's new client-to-server streaming feature
 - [soheilpro/Clipboard](https://github.com/soheilpro/Clipboard) - Cross-platform clipboard library for .NET Core.
@@ -3693,7 +3923,7 @@
 - [aldobrynin/CleanBinAndObj](https://github.com/aldobrynin/CleanBinAndObj) - Visual Studio extension for easy clean all bin and obj directories in solution
 - [stevejgordon/gRPCBasicSample](https://github.com/stevejgordon/gRPCBasicSample) - A basic early example of using gRPC with ASP.NET Core 3.0
 - [CNinnovation/basta2019frankfurt](https://github.com/CNinnovation/basta2019frankfurt) - 
-- [kdcllc/CometD.NetCore.Salesforce](https://github.com/kdcllc/CometD.NetCore.Salesforce) - CometD Salesforce Implementation.
+- [kdcllc/CometD.NetCore.Salesforce](https://github.com/kdcllc/CometD.NetCore.Salesforce) - A .NET Core library for real-time Salesforce integration using CometD protocol. Simplify event-driven communication with Salesforce Streaming API for modern .NET applications. Perfect for developers s
 - [stevejgordon/HttpClientFactorySamples](https://github.com/stevejgordon/HttpClientFactorySamples) - A collection of sample applications which demonstrate some potential requirements that may occur when using HttpClient and HttpClientFactory.
 - [filipw/2018-ndcoslo-demos](https://github.com/filipw/2018-ndcoslo-demos) - 
 - [markvincze/K8sGracefulShutdownTester](https://github.com/markvincze/K8sGracefulShutdownTester) - 
@@ -3870,7 +4100,7 @@
 - [OdeToCode/UseNodeModules](https://github.com/OdeToCode/UseNodeModules) - ASP.NET Core middleware to serve files from the node_modules directory in the root of the project.
 - [sleemer/docker.dotnet.debug](https://github.com/sleemer/docker.dotnet.debug) - This is a sample that demonstrates how to debug dotnet core 2.0 console running in docker from vscode
 - [dotnet/sourcelink](https://github.com/dotnet/sourcelink) - Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [g0t4/aspnetcore-generator-api](https://github.com/g0t4/aspnetcore-generator-api) - Sample ASP.NET Core API that generates random data, has swagger UI too
 - [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache) - An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 - [filipw/lightweight-aspnetcore-sample-site](https://github.com/filipw/lightweight-aspnetcore-sample-site) - 
@@ -4016,7 +4246,7 @@
 - [frederiksen/Stateless-Designer](https://github.com/frederiksen/Stateless-Designer) - Visual Studio extension to support visual design of stateless state machines. Support for Visual Studio 2012/2013/2015/2017.
 - [jbogard/ContosoUniversity](https://github.com/jbogard/ContosoUniversity) - Contoso University sample re-done the way I would build it
 - [vip30/Mediatr-FluentValidation-StructureMap-ASP.NET-Core-Boilerplate](https://github.com/vip30/Mediatr-FluentValidation-StructureMap-ASP.NET-Core-Boilerplate) - This is a CQRS for ASP.NET CORE Boilerplate
-- [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Web Application ASP.NET 8 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices
+- [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices
 - [dncuug/X.PagedList](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET
 - [aspnet/JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - [Archived] This repository has been archived
 - [ligershark/CoreTemplatePack](https://github.com/ligershark/CoreTemplatePack) - A collection of .NET Core project templates
@@ -4115,10 +4345,6 @@
 - [MRCollective/ChameleonForms](https://github.com/MRCollective/ChameleonForms) - Shape-shifting your forms experience in ASP.NET Core MVC
 - [aspnet/Identity](https://github.com/aspnet/Identity) - [Archived] ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data. Project moved to https://github.com/aspnet/AspNetCore
 
-## p2p 
-
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-
 ## package-manager 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -4151,14 +4377,14 @@
 - [marcominerva/DatabaseGPT](https://github.com/marcominerva/DatabaseGPT) - Query a database using natural language
 - [microsoft/vscode-cosmosdb](https://github.com/microsoft/vscode-cosmosdb) - Azure Databases extension for VS Code
 - [Azure-Samples/azure-fastapi-postgres-flexible-aca](https://github.com/Azure-Samples/azure-fastapi-postgres-flexible-aca) - Web app using Python FastAPI backend, set up for deployment to Azure Container Apps with Azure PostgreSQL Flexible Server.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [SQLStreamStore/SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting RDBMS based implementations for .NET
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [jgauffin/Griffin.Data](https://github.com/jgauffin/Griffin.Data) - Data layer for both the read and write side of an .NET application
 
@@ -4171,6 +4397,8 @@
 
 ## privacy 
 
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [LeonKohli/browser-fingerprint](https://github.com/LeonKohli/browser-fingerprint) - An app to demonstrate various browser fingerprinting techniques
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -4179,11 +4407,11 @@
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or ap
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## programming 
 
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 
 ## publishing 
 
@@ -4209,9 +4437,28 @@
 
 ## python 
 
-- [starpig1129/ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-MulitAgent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, da
+- [kdcllc/agentic-ai-github-stars](https://github.com/kdcllc/agentic-ai-github-stars) - Discover and leverage the power of AI to analyze and enhance GitHub repositories. This Python-based project offers seamless tools and insights tailored for developers and organizations looking to opti
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+- [typper-io/ai-code-sandbox](https://github.com/typper-io/ai-code-sandbox) - Secure Python sandbox for AI/ML code execution using Docker. Run LLM outputs safely.
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+- [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [Azure-Samples/openai-chat-vision-quickstart](https://github.com/Azure-Samples/openai-chat-vision-quickstart) - A demonstration of chatting with uploaded images using OpenAI vision models like gpt-4o.
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
+- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digita
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Azure-Samples/openai-chat-app-entra-auth-builtin](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) - A simple chat application that integrates Microsoft Entra ID for user authentication. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
 - [denniszielke/gen-ai-code-execution-agent](https://github.com/denniszielke/gen-ai-code-execution-agent) - Secure Dynamic Session Agent for AI generated code execution built using OpenAI, Langchain and Azure Container Apps
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
@@ -4224,7 +4471,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [Azure/openai-at-scale](https://github.com/Azure/openai-at-scale) - Simple ChatGPT UI application
-- [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - C# Developer's Exciting Journey into Python World 🐍
+- [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - Embark on a C# developer's journey into the Python programming world. Explore hands-on examples, Jupyter Notebooks, and Python scripts designed to help C# enthusiasts transition seamlessly to Python. 
 - [Azure-Samples/openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) - A simple chat application that uses managed identity for Azure OpenAI access. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -4251,12 +4498,11 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping API (self-hosted)
+- [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping APIs (self-hosted)
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [cecilphillip/ZeroToHeroDaprCon](https://github.com/cecilphillip/ZeroToHeroDaprCon) - Demos from my Zero to Hero with Dapr session @ DaprCon
@@ -4276,7 +4522,7 @@
 ## python3 
 
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
-- [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - C# Developer's Exciting Journey into Python World 🐍
+- [kdcllc/CSharpToPythonLearning](https://github.com/kdcllc/CSharpToPythonLearning) - Embark on a C# developer's journey into the Python programming world. Explore hands-on examples, Jupyter Notebooks, and Python scripts designed to help C# enthusiasts transition seamlessly to Python. 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -4287,7 +4533,8 @@
 
 ## pytorch 
 
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -4304,7 +4551,7 @@
 
 ## raspberry-pi 
 
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [unosquare/raspberryio](https://github.com/unosquare/raspberryio) - The Raspberry Pi's IO Functionality in an easy-to-use API for Mono/.NET/C#
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
@@ -4312,6 +4559,8 @@
 
 ## react 
 
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [sojinantony01/react-cron-generator](https://github.com/sojinantony01/react-cron-generator) - Simple react component to generate cron expressions
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
@@ -4319,10 +4568,10 @@
 - [LucasBassetti/react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - :speech_balloon: Easy way to create conversation chats
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [charlessolar/eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [Shopify/storefront-api-examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [xiongemi/react-checkout-form](https://github.com/xiongemi/react-checkout-form) - a checkout from built in react, mui, formik, yup and formik-mui
@@ -4354,7 +4603,6 @@
 
 ## reactjs 
 
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [thangchung/blog-core](https://github.com/thangchung/blog-core) - Modular blog using Blazor with clean domain-driven design patterns
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
@@ -4379,14 +4627,14 @@
 
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
+- [davidfowl/TodoApp](https://github.com/davidfowl/TodoApp) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
 - [gustavnavar/Grid.Blazor](https://github.com/gustavnavar/Grid.Blazor) - Grid component with CRUD for Blazor (client-side and server-side) and ASP.NET Core MVC
 - [microsoft/rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing) - REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enable
 - [benc-uk/dapr-store](https://github.com/benc-uk/dapr-store) - Sample application showcasing the use of Dapr to build microservices based apps
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays (REST API), NuGet or docker container :earth_americas:
-- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 
 ## reverse-engineering 
@@ -4417,8 +4665,8 @@
 - [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) - Rust for C#/.NET Developers
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
@@ -4440,6 +4688,7 @@
 
 ## security 
 
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
@@ -4460,10 +4709,16 @@
 - [miscreant/meta](https://github.com/miscreant/meta) - Meta-repository for Miscreant: misuse-resistant symmetric encryption library with AES-SIV (RFC 5297) and AES-PMAC-SIV support
 - [fullstackproltd/AspNetCoreSpa](https://github.com/fullstackproltd/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
 
+## security-tools 
+
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
@@ -4530,7 +4785,7 @@
 - [microsoft/tigertoolbox](https://github.com/microsoft/tigertoolbox) - Toolbox repository for Tiger team
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [SqlRepo/SqlRepo](https://github.com/SqlRepo/SqlRepo) - SqlRepo is a .NET library for building SQL statements with Lambda Expressions and mapping results to objects
-- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [zzzprojects/Dapper-Plus](https://github.com/zzzprojects/Dapper-Plus) - Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET
 
@@ -4540,6 +4795,7 @@
 - [marcominerva/DatabaseGPT](https://github.com/marcominerva/DatabaseGPT) - Query a database using natural language
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi) - ASP.NET Core 8.0 - Minimal API Example - Todo API implementation using ASP.NET Core Minimal API, Entity Framework Core, Token authentication, Versioning, Unit Testing, Integration Testing and Open API
+- [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Now upgraded to .NET 9, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and MediatR. It includes an ASP.NET Core Razor Pages implementation for inventory ord
 - [SQLStreamStore/SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting RDBMS based implementations for .NET
 - [BrentOzarULTD/SQL-Server-First-Responder-Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) - sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.
 - [vany0114/resilience-strategy-with-polly](https://github.com/vany0114/resilience-strategy-with-polly) - Proposes a way to build resilience strategies using Polly and an easy and cool way to consume it using the builder pattern.
@@ -4557,20 +4813,21 @@
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [PawelGerr/Thinktecture.EntityFrameworkCore](https://github.com/PawelGerr/Thinktecture.EntityFrameworkCore) - These libraries extend Entity Framework Core  by a few features to make it easier to work with EF and for easier integration testing or to get more performance in some special cases.
 - [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
-- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+- [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle
 - [damienbod/AspNetCoreAngularSignalR](https://github.com/damienbod/AspNetCoreAngularSignalR) - SignalR ASP.NET Core Angular
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) - SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
 
 ## stable-diffusion 
 
+- [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## statistics 
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [zeppaman/GitStats](https://github.com/zeppaman/GitStats) - A dashboard for GitHub repos statitstics and download tracking
 - [accord-net/framework](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET
@@ -4590,16 +4847,20 @@
 ## tailwindcss 
 
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [thangchung/tailwindonblazor-template](https://github.com/thangchung/tailwindonblazor-template) - Makes Tailwind works with Blazor (live-reload mode)
 - [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte(kit) apps
 
+## telegram 
+
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+
 ## tensorflow 
 
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
+- [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -4620,10 +4881,11 @@
 
 ## terraform 
 
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - Opinionated AKS + OSS stack with ArgoCD, CAPZ/ASO or Crossplane, Terraform, Backstage
 - [microsoft/NubesGen](https://github.com/microsoft/NubesGen) - Going to production on Azure is only one `git push` away
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [thangchung/dapr-labs](https://github.com/thangchung/dapr-labs) - Many forms of coffeeshop implemented by C# and Rust run on WebAssembly/WASI (Spin) + Dapr. ⭐️ Star to support our work!
-- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 - [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [Azure/terraform-azurerm-compute](https://github.com/Azure/terraform-azurerm-compute) - Terraform Azure RM Compute Module
 - [ned1313/Implementing-Terraform-on-Microsoft-Azure](https://github.com/ned1313/Implementing-Terraform-on-Microsoft-Azure) - Code examples for the Pluralsight course Implementing Terraform on Microsoft Azure
@@ -4653,12 +4915,18 @@
 - [nsubstitute/NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 
+## text-to-speech 
+
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
+
 ## twitter 
 
 - [nemiro-net/nemiro.oauth](https://github.com/nemiro-net/nemiro.oauth) - Nemiro.OAuth is a class library for authorization via OAuth protocol in .NET Framework
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [Azure-Samples/serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure
@@ -4669,6 +4937,7 @@
 - [kdcllc/Chavah](https://github.com/kdcllc/Chavah) - Chavah Messianic Radio is the very best Messianic Jewish and Hebrew Roots music on the web.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [charlessolar/eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [thangchung/dapr-labs](https://github.com/thangchung/dapr-labs) - Many forms of coffeeshop implemented by C# and Rust run on WebAssembly/WASI (Spin) + Dapr. ⭐️ Star to support our work!
 - [xiongemi/react-checkout-form](https://github.com/xiongemi/react-checkout-form) - a checkout from built in react, mui, formik, yup and formik-mui
@@ -4693,7 +4962,7 @@
 - [mappmechanic/awesome-stenciljs](https://github.com/mappmechanic/awesome-stenciljs) - List of Awesome Web Components Built with StencilJS
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [SQL-MisterMagoo/BlazorPreview_8_Typescript_Sample](https://github.com/SQL-MisterMagoo/BlazorPreview_8_Typescript_Sample) - How to use Typescript in a Razor Component Library (and how it also doesn't work very well)
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 18, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 9, Angular 19, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Princip
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
 - [ngx-rocket/starter-kit](https://github.com/ngx-rocket/starter-kit) - :package: Angular 14+ starter kit for enterprise-grade projects
@@ -4714,7 +4983,7 @@
 - [forcedotcom/salesforcedx-vscode](https://github.com/forcedotcom/salesforcedx-vscode) - Salesforce Extensions for VS Code
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
-- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
+- [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [ducksoupdev/vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
@@ -4731,7 +5000,6 @@
 
 ## ubuntu 
 
-- [kdcllc/windows11-to-linux-dev-journey](https://github.com/kdcllc/windows11-to-linux-dev-journey) - Journey from Windows 11 to Linux as a full-stack developer
 - [telstrapurple/PurpleExplorer](https://github.com/telstrapurple/PurpleExplorer) - cross-platform Azure Service Bus explorer (Windows, MacOS, Linux)
 - [michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide) - An in-depth Guide for getting started with the Windows Subsystem for Linux!
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
@@ -4754,15 +5022,20 @@
 
 ## visual-studio-code 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 - [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
-- [kdcllc/win10andwsldev](https://github.com/kdcllc/win10andwsldev) - Windows 11 with Windows Linux Subsystem (WSL) Development
+- [kdcllc/win10andwsldev](https://github.com/kdcllc/win10andwsldev) - Streamline Your Windows 10 and WSL Development Workflow Discover how to optimize your development workflow on Windows 10 using WSL (Windows Subsystem for Linux). This repository provides tools, script
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
+
+## vpn 
+
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 
 ## vue 
 
@@ -4778,6 +5051,7 @@
 
 ## vuejs 
 
+- [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Now upgraded to .NET 9, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and MediatR. It includes an ASP.NET Core Razor Pages implementation for inventory ord
 - [damienbod/AspNetCoreMvcVueJs](https://github.com/damienbod/AspNetCoreMvcVueJs) - ASP.NET Core with Vue.js
 - [johnpapa/vue-workshop](https://github.com/johnpapa/vue-workshop) - Vue Fundamentals Workshops
 - [hvpaiva/aspdotnet-vuejs](https://github.com/hvpaiva/aspdotnet-vuejs) - ASP.NET Core and VueJs Template
@@ -4789,6 +5063,7 @@
 
 ## web 
 
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [KristofferStrube/Blazor.WebAuthentication](https://github.com/KristofferStrube/Blazor.WebAuthentication) - A Blazor wrapper for the Web Authentication browser API.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -4845,10 +5120,11 @@
 
 ## website 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## windows 
 
+- [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
@@ -4863,13 +5139,12 @@
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [microsoft/CsWinRT](https://github.com/microsoft/CsWinRT) - C# language projection for the Windows Runtime
-- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [artiebits/pdf-to-printer](https://github.com/artiebits/pdf-to-printer) - Print PDFs and images from Node.js and Electron
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
@@ -4883,7 +5158,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible curl binaries for Linux, macOS and Windows
+- [curl/curl-for-win](https://github.com/curl/curl-for-win) - Reproducible, static, curl binaries for Linux, macOS and Windows
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
@@ -4924,6 +5199,7 @@
 
 ## xml 
 
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
 - [seven1m/open-bibles](https://github.com/seven1m/open-bibles) - Repository of public domain and freely (libre) licensed bible translations in some standard XML formats.
 - [Cinchoo/ChoETL](https://github.com/Cinchoo/ChoETL) - ETL framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml, Avro formatted files)
 - [TurnerSoftware/SitemapTools](https://github.com/TurnerSoftware/SitemapTools) - A sitemap (sitemap.xml) querying and parsing library for .NET
